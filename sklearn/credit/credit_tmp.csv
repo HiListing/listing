@@ -1,0 +1,2465 @@
+﻿Customer_id,Age,Income_level,Number_of_credit_cards,Education,Car_loans,Credit_rating
+A00000001,36,Medium,5 or more,College,More than 2,Bad
+A00000002,22,Medium,5 or more,College,More than 2,Bad
+A00000003,29,Low,5 or more,High school,More than 2,Bad
+A00000004,33,Low,5 or more,College,None or 1,Bad
+A00000005,37,Medium,5 or more,College,More than 2,Bad
+A00000006,39,,5 or more,College,More than 2,Bad
+A00000007,32,Medium,5 or more,College,More than 2,Bad
+A00000008,35,Low,5 or more,High school,More than 2,Bad
+A00000009,32,Low,5 or more,High school,More than 2,Bad
+A00000010,25,Medium,5 or more,College,More than 2,Bad
+A00000011,23,Low,5 or more,College,More than 2,Bad
+A00000012,46,Low,5 or more,High school,More than 2,Bad
+A00000013,29,Medium,5 or more,High school,More than 2,Bad
+A00000014,29,Low,5 or more,College,None or 1,Bad
+A00000015,40,Low,5 or more,High school,More than 2,Bad
+A00000016,39,Low,5 or more,College,More than 2,Bad
+A00000017,34,Low,5 or more,College,More than 2,Bad
+A00000018,36,Medium,5 or more,College,More than 2,Bad
+A00000019,36,Medium,5 or more,College,More than 2,Bad
+A00000020,26,High,5 or more,College,More than 2,Bad
+A00000021,22,Low,5 or more,College,More than 2,Bad
+A00000022,29,Medium,5 or more,High school,More than 2,Bad
+A00000023,23,Low,5 or more,College,More than 2,Bad
+A00000024,43,Medium,5 or more,College,More than 2,Bad
+A00000025,20,Medium,5 or more,High school,More than 2,Bad
+A00000026,28,,5 or more,High school,More than 2,Bad
+A00000027,29,Medium,5 or more,College,More than 2,Bad
+A00000028,30,Medium,5 or more,High school,More than 2,Bad
+A00000029,25,Medium,5 or more,College,More than 2,Bad
+A00000030,40,Low,5 or more,College,None or 1,Bad
+A00000031,21,Low,5 or more,College,More than 2,Bad
+A00000032,23,Low,5 or more,High school,More than 2,Bad
+A00000033,33,Medium,5 or more,High school,More than 2,Bad
+A00000034,33,Medium,5 or more,High school,More than 2,Bad
+A00000035,28,High,5 or more,High school,None or 1,Bad
+A00000036,21,Medium,5 or more,College,More than 2,Bad
+A00000037,29,Medium,5 or more,College,More than 2,Bad
+A00000038,21,Medium,5 or more,High school,More than 2,Bad
+A00000039,21,Medium,5 or more,High school,None or 1,Bad
+A00000040,24,Low,5 or more,High school,More than 2,Bad
+A00000041,47,,5 or more,College,More than 2,Bad
+A00000042,25,Medium,5 or more,High school,More than 2,Bad
+A00000043,31,High,5 or more,High school,More than 2,Bad
+A00000044,21,Low,5 or more,High school,More than 2,Bad
+A00000045,21,Medium,5 or more,College,More than 2,Bad
+A00000046,32,,5 or more,High school,More than 2,Bad
+A00000047,31,Medium,5 or more,High school,More than 2,Bad
+A00000048,23,Medium,5 or more,College,More than 2,Bad
+A00000049,35,Medium,5 or more,High school,More than 2,Bad
+A00000050,25,Medium,Less than 5,College,None or 1,Bad
+A00000051,37,Low,5 or more,High school,More than 2,Bad
+A00000052,31,Medium,5 or more,High school,More than 2,Bad
+A00000053,33,Low,5 or more,High school,More than 2,Bad
+A00000054,24,Low,5 or more,College,More than 2,Bad
+A00000055,47,Low,5 or more,High school,More than 2,Bad
+A00000056,28,Medium,5 or more,High school,More than 2,Bad
+A00000057,46,Medium,5 or more,College,None or 1,Bad
+A00000058,21,Low,5 or more,High school,More than 2,Bad
+A00000059,21,Low,5 or more,College,None or 1,Bad
+A00000060,24,Medium,5 or more,High school,More than 2,Bad
+A00000061,27,Low,5 or more,High school,More than 2,Bad
+A00000062,38,Low,5 or more,College,More than 2,Bad
+A00000063,23,Medium,5 or more,College,More than 2,Bad
+A00000064,22,Low,5 or more,College,More than 2,Bad
+A00000065,26,Low,5 or more,High school,More than 2,Bad
+A00000066,36,Medium,5 or more,High school,More than 2,Bad
+A00000067,23,Medium,5 or more,College,More than 2,Bad
+A00000068,,Low,5 or more,College,More than 2,Bad
+A00000069,28,,5 or more,High school,More than 2,Bad
+A00000070,44,Medium,5 or more,High school,None or 1,Bad
+A00000071,25,Low,5 or more,College,More than 2,Bad
+A00000072,22,Medium,5 or more,High school,More than 2,Bad
+A00000073,28,Low,5 or more,High school,None or 1,Bad
+A00000074,37,Medium,5 or more,College,More than 2,Bad
+A00000075,24,Low,5 or more,College,More than 2,Bad
+A00000076,36,Medium,5 or more,College,More than 2,Bad
+A00000077,25,Low,5 or more,College,More than 2,Bad
+A00000078,31,Medium,5 or more,High school,More than 2,Bad
+A00000079,20,Low,5 or more,College,More than 2,Bad
+A00000080,33,Medium,5 or more,College,More than 2,Bad
+A00000081,21,Low,5 or more,High school,More than 2,Bad
+A00000082,27,Low,Less than 5,High school,None or 1,Bad
+A00000083,31,Low,5 or more,College,More than 2,Bad
+A00000084,30,Medium,5 or more,College,More than 2,Bad
+A00000085,51,Low,5 or more,High school,More than 2,Bad
+A00000086,29,Low,5 or more,College,More than 2,Bad
+A00000087,35,Medium,5 or more,College,More than 2,Bad
+A00000088,36,Low,5 or more,College,None or 1,Bad
+A00000089,24,,5 or more,High school,More than 2,Bad
+A00000090,23,Medium,5 or more,High school,More than 2,Bad
+A00000091,39,Medium,5 or more,High school,More than 2,Bad
+A00000092,22,Medium,5 or more,College,More than 2,Bad
+A00000093,24,Low,5 or more,High school,More than 2,Bad
+A00000094,26,Medium,5 or more,College,More than 2,Bad
+A00000095,27,Medium,5 or more,College,More than 2,Bad
+A00000096,37,Medium,5 or more,High school,More than 2,Bad
+A00000097,29,Low,5 or more,College,More than 2,Bad
+A00000098,31,Low,5 or more,High school,More than 2,Bad
+A00000099,22,Low,5 or more,High school,More than 2,Bad
+A00000100,43,Low,5 or more,College,More than 2,Bad
+A00000101,27,,Less than 5,High school,None or 1,Bad
+A00000102,24,Low,5 or more,College,More than 2,Bad
+A00000103,26,Low,5 or more,College,More than 2,Bad
+A00000104,21,Medium,5 or more,High school,More than 2,Bad
+A00000105,41,Medium,5 or more,High school,More than 2,Bad
+A00000106,53,Low,5 or more,College,More than 2,Bad
+A00000107,25,Medium,5 or more,College,More than 2,Bad
+A00000108,28,Low,5 or more,College,More than 2,Bad
+A00000109,30,Low,5 or more,High school,More than 2,Bad
+A00000110,36,Low,5 or more,College,More than 2,Bad
+A00000111,20,Medium,5 or more,High school,More than 2,Bad
+A00000112,23,Low,5 or more,College,More than 2,Bad
+A00000113,45,Low,5 or more,High school,More than 2,Bad
+A00000114,44,Medium,5 or more,College,More than 2,Bad
+A00000115,20,Medium,Less than 5,College,None or 1,Bad
+A00000116,27,Low,5 or more,College,More than 2,Bad
+A00000117,24,Low,5 or more,High school,More than 2,Bad
+A00000118,37,,5 or more,High school,More than 2,Bad
+A00000119,26,High,5 or more,College,None or 1,Bad
+A00000120,25,Low,5 or more,College,More than 2,Bad
+A00000121,32,Low,5 or more,High school,More than 2,Bad
+A00000122,39,Medium,5 or more,College,None or 1,Bad
+A00000123,24,Medium,5 or more,College,More than 2,Bad
+A00000124,32,Low,5 or more,High school,More than 2,Bad
+A00000125,43,Low,5 or more,College,More than 2,Bad
+A00000126,22,Medium,5 or more,College,More than 2,Bad
+A00000127,27,High,5 or more,College,More than 2,Bad
+A00000128,40,High,5 or more,College,More than 2,Bad
+A00000129,31,Medium,Less than 5,High school,None or 1,Bad
+A00000130,24,Low,5 or more,High school,More than 2,Bad
+A00000131,33,Low,5 or more,High school,More than 2,Bad
+A00000132,40,Low,5 or more,High school,More than 2,Bad
+A00000133,23,High,5 or more,High school,More than 2,Bad
+A00000134,30,Low,Less than 5,High school,None or 1,Bad
+A00000135,29,Low,Less than 5,High school,None or 1,Bad
+A00000136,23,Low,5 or more,High school,More than 2,Bad
+A00000137,31,Low,Less than 5,High school,None or 1,Bad
+A00000138,33,Low,5 or more,High school,None or 1,Bad
+A00000139,37,Medium,5 or more,College,More than 2,Bad
+A00000140,39,Low,5 or more,College,More than 2,Bad
+A00000141,22,Low,5 or more,High school,More than 2,Bad
+A00000142,31,Low,5 or more,High school,More than 2,Bad
+A00000143,40,Low,5 or more,High school,More than 2,Bad
+A00000144,29,Low,5 or more,High school,More than 2,Bad
+A00000145,22,Medium,5 or more,College,More than 2,Bad
+A00000146,26,Low,5 or more,High school,More than 2,Bad
+A00000147,21,Low,5 or more,College,More than 2,Bad
+A00000148,44,Low,5 or more,High school,None or 1,Bad
+A00000149,33,Low,5 or more,High school,More than 2,Bad
+A00000150,28,Medium,5 or more,High school,More than 2,Bad
+A00000151,29,Low,5 or more,College,More than 2,Bad
+A00000152,45,Low,5 or more,College,None or 1,Bad
+A00000153,22,High,5 or more,College,More than 2,Bad
+A00000154,33,,5 or more,College,More than 2,Bad
+A00000155,32,Low,5 or more,College,More than 2,Bad
+A00000156,22,Medium,Less than 5,College,None or 1,Bad
+A00000157,30,Medium,5 or more,High school,More than 2,Bad
+A00000158,55,,5 or more,High school,More than 2,Bad
+A00000159,30,Medium,Less than 5,High school,None or 1,Bad
+A00000160,20,Low,5 or more,College,More than 2,Bad
+A00000161,29,Low,5 or more,College,More than 2,Bad
+A00000162,38,Low,5 or more,High school,More than 2,Bad
+A00000163,29,Low,5 or more,College,More than 2,Bad
+A00000164,36,Low,5 or more,High school,None or 1,Bad
+A00000165,21,Medium,5 or more,High school,None or 1,Bad
+A00000166,25,,5 or more,High school,More than 2,Bad
+A00000167,31,Low,5 or more,College,More than 2,Bad
+A00000168,40,Low,5 or more,College,More than 2,Bad
+A00000169,29,Medium,5 or more,College,More than 2,Bad
+A00000170,23,Low,5 or more,College,More than 2,Bad
+A00000171,33,Low,5 or more,College,More than 2,Bad
+A00000172,43,Low,5 or more,College,None or 1,Bad
+A00000173,34,Medium,5 or more,High school,None or 1,Bad
+A00000174,41,Medium,Less than 5,College,None or 1,Bad
+A00000175,34,High,5 or more,High school,None or 1,Bad
+A00000176,25,Medium,5 or more,High school,More than 2,Bad
+A00000177,26,Low,5 or more,College,More than 2,Bad
+A00000178,32,Low,5 or more,College,More than 2,Bad
+A00000179,42,Medium,5 or more,College,More than 2,Bad
+A00000180,23,Medium,5 or more,High school,None or 1,Bad
+A00000181,25,Low,5 or more,College,More than 2,Bad
+A00000182,24,Medium,5 or more,High school,More than 2,Bad
+A00000183,26,Medium,5 or more,High school,More than 2,Bad
+A00000184,44,Medium,Less than 5,College,None or 1,Bad
+A00000185,22,Low,5 or more,High school,More than 2,Bad
+A00000186,38,Medium,5 or more,College,More than 2,Bad
+A00000187,54,Low,5 or more,College,More than 2,Bad
+A00000188,30,Medium,5 or more,High school,More than 2,Bad
+A00000189,27,Medium,5 or more,College,More than 2,Bad
+A00000190,24,Medium,5 or more,High school,More than 2,Bad
+A00000191,34,Low,Less than 5,High school,None or 1,Bad
+A00000192,25,Medium,5 or more,High school,More than 2,Bad
+A00000193,34,Medium,5 or more,College,More than 2,Bad
+A00000194,36,Medium,Less than 5,High school,None or 1,Bad
+A00000195,24,Low,5 or more,College,More than 2,Bad
+A00000196,44,Low,5 or more,College,More than 2,Bad
+A00000197,23,High,5 or more,College,More than 2,Bad
+A00000198,48,High,5 or more,College,More than 2,Bad
+A00000199,38,Low,5 or more,High school,None or 1,Bad
+A00000200,24,Medium,5 or more,College,More than 2,Bad
+A00000201,28,Medium,5 or more,High school,More than 2,Bad
+A00000202,21,Medium,5 or more,High school,None or 1,Bad
+A00000203,28,Medium,5 or more,High school,More than 2,Bad
+A00000204,24,Low,5 or more,High school,More than 2,Bad
+A00000205,21,Medium,Less than 5,College,More than 2,Bad
+A00000206,35,Low,5 or more,College,More than 2,Bad
+A00000207,33,Low,5 or more,College,More than 2,Bad
+A00000208,30,Low,5 or more,College,More than 2,Bad
+A00000209,22,Medium,5 or more,High school,More than 2,Bad
+A00000210,23,Low,5 or more,High school,More than 2,Bad
+A00000211,32,Medium,5 or more,High school,None or 1,Bad
+A00000212,23,Low,5 or more,College,More than 2,Bad
+A00000213,37,Low,5 or more,College,More than 2,Bad
+A00000214,29,Medium,5 or more,College,More than 2,Bad
+A00000215,52,,5 or more,High school,None or 1,Bad
+A00000216,27,Medium,5 or more,College,More than 2,Bad
+A00000217,41,Low,5 or more,College,More than 2,Bad
+A00000218,41,Medium,5 or more,High school,More than 2,Bad
+A00000219,25,Medium,5 or more,High school,More than 2,Bad
+A00000220,30,Medium,5 or more,High school,More than 2,Bad
+A00000221,21,Low,5 or more,College,More than 2,Bad
+A00000222,30,Medium,5 or more,College,None or 1,Bad
+A00000223,21,Low,5 or more,High school,More than 2,Bad
+A00000224,27,Medium,Less than 5,High school,None or 1,Bad
+A00000225,24,Low,5 or more,High school,More than 2,Bad
+A00000226,25,Medium,5 or more,College,More than 2,Bad
+A00000227,26,Low,5 or more,High school,More than 2,Bad
+A00000228,32,Medium,5 or more,College,More than 2,Bad
+A00000229,33,Low,5 or more,College,More than 2,Bad
+A00000230,37,Medium,5 or more,High school,More than 2,Bad
+A00000231,28,Low,5 or more,High school,More than 2,Bad
+A00000232,25,Medium,5 or more,High school,More than 2,Bad
+A00000233,35,Medium,5 or more,High school,More than 2,Bad
+A00000234,33,Medium,5 or more,College,More than 2,Bad
+A00000235,35,Medium,5 or more,High school,More than 2,Bad
+A00000236,43,Medium,5 or more,College,More than 2,Bad
+A00000237,24,Low,5 or more,College,More than 2,Bad
+A00000238,25,,5 or more,High school,More than 2,Bad
+A00000239,27,Low,5 or more,College,More than 2,Bad
+A00000240,41,Medium,5 or more,High school,More than 2,Bad
+A00000241,20,Low,Less than 5,College,None or 1,Bad
+A00000242,35,Low,5 or more,High school,More than 2,Bad
+A00000243,44,Low,5 or more,College,More than 2,Bad
+A00000244,39,Medium,5 or more,High school,More than 2,Bad
+A00000245,34,Medium,5 or more,High school,More than 2,Bad
+A00000246,23,,5 or more,High school,More than 2,Bad
+A00000247,47,Low,5 or more,College,More than 2,Bad
+A00000248,28,High,5 or more,College,More than 2,Bad
+A00000249,40,Medium,5 or more,High school,More than 2,Bad
+A00000250,21,Medium,Less than 5,College,None or 1,Bad
+A00000251,27,Low,5 or more,College,More than 2,Bad
+A00000252,39,Medium,Less than 5,High school,None or 1,Bad
+A00000253,36,High,5 or more,College,More than 2,Bad
+A00000254,28,Medium,5 or more,College,More than 2,Bad
+A00000255,37,Medium,Less than 5,High school,None or 1,Bad
+A00000256,23,Medium,Less than 5,College,None or 1,Bad
+A00000257,37,Medium,Less than 5,College,None or 1,Bad
+A00000258,35,High,5 or more,High school,More than 2,Bad
+A00000259,39,Medium,5 or more,College,More than 2,Bad
+A00000260,29,Medium,5 or more,College,More than 2,Bad
+A00000261,22,Medium,5 or more,College,More than 2,Bad
+A00000262,25,Low,5 or more,College,More than 2,Bad
+A00000263,36,Medium,5 or more,High school,More than 2,Bad
+A00000264,34,Low,5 or more,College,More than 2,Bad
+A00000265,20,Medium,5 or more,High school,More than 2,Bad
+A00000266,25,Low,Less than 5,High school,None or 1,Bad
+A00000267,23,Medium,Less than 5,High school,None or 1,Bad
+A00000268,23,Low,5 or more,High school,More than 2,Bad
+A00000269,32,Low,5 or more,High school,More than 2,Bad
+A00000270,41,Medium,5 or more,High school,More than 2,Bad
+A00000271,26,Medium,5 or more,College,More than 2,Bad
+A00000272,20,Low,5 or more,College,More than 2,Bad
+A00000273,21,Low,5 or more,High school,More than 2,Bad
+A00000274,22,Medium,5 or more,High school,More than 2,Bad
+A00000275,23,Medium,5 or more,College,More than 2,Bad
+A00000276,26,Medium,5 or more,College,More than 2,Bad
+A00000277,26,Medium,Less than 5,College,None or 1,Bad
+A00000278,29,Medium,5 or more,High school,More than 2,Bad
+A00000279,30,Medium,5 or more,College,More than 2,Bad
+A00000280,22,Medium,5 or more,High school,More than 2,Bad
+A00000281,22,Medium,5 or more,College,More than 2,Bad
+A00000282,27,High,5 or more,High school,More than 2,Bad
+A00000283,29,Low,5 or more,High school,More than 2,Bad
+A00000284,31,High,5 or more,College,More than 2,Bad
+A00000285,23,Low,5 or more,College,None or 1,Bad
+A00000286,26,Low,5 or more,College,None or 1,Bad
+A00000287,29,Medium,5 or more,College,More than 2,Bad
+A00000288,37,Medium,Less than 5,High school,None or 1,Bad
+A00000289,28,Medium,5 or more,High school,More than 2,Bad
+A00000290,39,Low,5 or more,College,More than 2,Bad
+A00000291,23,High,5 or more,High school,More than 2,Bad
+A00000292,33,Low,5 or more,College,More than 2,Bad
+A00000293,28,Low,5 or more,College,None or 1,Bad
+A00000294,25,Medium,5 or more,High school,More than 2,Bad
+A00000295,20,Medium,5 or more,High school,More than 2,Bad
+A00000296,41,Low,5 or more,High school,More than 2,Bad
+A00000297,32,Low,Less than 5,College,More than 2,Bad
+A00000298,36,Medium,5 or more,High school,More than 2,Bad
+A00000299,21,Medium,5 or more,High school,More than 2,Bad
+A00000300,22,Low,5 or more,High school,More than 2,Bad
+A00000301,33,Low,5 or more,High school,More than 2,Bad
+A00000302,34,Low,5 or more,High school,More than 2,Bad
+A00000303,25,Medium,5 or more,High school,None or 1,Bad
+A00000304,22,Medium,5 or more,College,More than 2,Bad
+A00000305,28,High,5 or more,High school,More than 2,Bad
+A00000306,27,Medium,5 or more,High school,More than 2,Bad
+A00000307,29,Low,5 or more,College,None or 1,Bad
+A00000308,20,Low,Less than 5,High school,None or 1,Bad
+A00000309,23,Medium,5 or more,College,More than 2,Bad
+A00000310,22,Low,5 or more,College,None or 1,Bad
+A00000311,26,Medium,5 or more,High school,More than 2,Bad
+A00000312,35,,5 or more,College,More than 2,Bad
+A00000313,41,Medium,5 or more,High school,None or 1,Bad
+A00000314,35,Low,5 or more,High school,More than 2,Bad
+A00000315,27,Low,5 or more,College,More than 2,Bad
+A00000316,21,Medium,5 or more,High school,More than 2,Bad
+A00000317,45,Medium,5 or more,College,More than 2,Bad
+A00000318,34,Low,5 or more,High school,More than 2,Bad
+A00000319,31,Medium,5 or more,High school,More than 2,Bad
+A00000320,31,Low,5 or more,College,More than 2,Bad
+A00000321,35,Low,Less than 5,High school,None or 1,Bad
+A00000322,36,Medium,5 or more,High school,More than 2,Bad
+A00000323,28,Medium,5 or more,High school,More than 2,Bad
+A00000324,32,Medium,5 or more,College,More than 2,Bad
+A00000325,31,Low,5 or more,College,More than 2,Bad
+A00000326,32,Medium,5 or more,High school,More than 2,Bad
+A00000327,23,Low,5 or more,High school,More than 2,Bad
+A00000328,32,Low,5 or more,High school,More than 2,Bad
+A00000329,34,Low,5 or more,College,None or 1,Bad
+A00000330,22,Medium,5 or more,College,More than 2,Bad
+A00000331,27,Medium,5 or more,College,More than 2,Bad
+A00000332,36,Low,5 or more,High school,More than 2,Bad
+A00000333,28,Medium,Less than 5,High school,More than 2,Bad
+A00000334,27,Medium,5 or more,College,More than 2,Bad
+A00000335,34,Medium,5 or more,High school,More than 2,Bad
+A00000336,29,Low,5 or more,College,More than 2,Bad
+A00000337,34,Low,5 or more,College,More than 2,Bad
+A00000338,32,Low,5 or more,College,More than 2,Bad
+A00000339,25,Medium,5 or more,High school,More than 2,Bad
+A00000340,29,Low,5 or more,High school,More than 2,Bad
+A00000341,36,Medium,Less than 5,High school,More than 2,Bad
+A00000342,27,Medium,Less than 5,College,None or 1,Bad
+A00000343,34,Low,5 or more,College,More than 2,Bad
+A00000344,27,Medium,5 or more,College,More than 2,Bad
+A00000345,27,Medium,5 or more,College,More than 2,Bad
+A00000346,22,High,5 or more,College,None or 1,Bad
+A00000347,30,Medium,Less than 5,College,None or 1,Bad
+A00000348,22,Medium,5 or more,College,More than 2,Bad
+A00000349,23,Medium,5 or more,High school,More than 2,Bad
+A00000350,39,Medium,5 or more,College,More than 2,Bad
+A00000351,32,Medium,5 or more,High school,More than 2,Bad
+A00000352,31,Low,5 or more,High school,More than 2,Bad
+A00000353,34,Medium,5 or more,College,More than 2,Bad
+A00000354,30,Low,5 or more,High school,More than 2,Bad
+A00000355,26,Medium,5 or more,High school,More than 2,Bad
+A00000356,21,Low,5 or more,College,None or 1,Bad
+A00000357,46,Low,Less than 5,College,None or 1,Bad
+A00000358,38,Low,5 or more,High school,More than 2,Bad
+A00000359,31,Low,5 or more,High school,More than 2,Bad
+A00000360,30,Medium,5 or more,High school,More than 2,Bad
+A00000361,57,Low,5 or more,High school,More than 2,Bad
+A00000362,40,Medium,5 or more,High school,More than 2,Bad
+A00000363,52,Medium,Less than 5,College,None or 1,Bad
+A00000364,25,Low,5 or more,College,More than 2,Bad
+A00000365,33,Low,5 or more,College,More than 2,Bad
+A00000366,37,High,5 or more,College,More than 2,Bad
+A00000367,24,Low,5 or more,High school,More than 2,Bad
+A00000368,24,Medium,5 or more,High school,More than 2,Bad
+A00000369,27,Medium,5 or more,High school,More than 2,Bad
+A00000370,32,High,Less than 5,College,None or 1,Bad
+A00000371,23,Low,5 or more,High school,More than 2,Bad
+A00000372,25,Medium,5 or more,College,More than 2,Bad
+A00000373,32,Medium,5 or more,College,More than 2,Bad
+A00000374,,Medium,5 or more,College,More than 2,Bad
+A00000375,33,Medium,Less than 5,College,None or 1,Bad
+A00000376,31,Low,5 or more,High school,None or 1,Bad
+A00000377,26,High,5 or more,High school,None or 1,Bad
+A00000378,30,Low,5 or more,High school,More than 2,Bad
+A00000379,30,Low,5 or more,College,More than 2,Bad
+A00000380,40,Medium,5 or more,College,More than 2,Bad
+A00000381,23,Medium,5 or more,High school,More than 2,Bad
+A00000382,26,Medium,Less than 5,College,None or 1,Bad
+A00000383,34,Medium,5 or more,High school,More than 2,Bad
+A00000384,28,Medium,5 or more,College,More than 2,Bad
+A00000385,24,Medium,5 or more,College,More than 2,Bad
+A00000386,30,Medium,Less than 5,High school,None or 1,Bad
+A00000387,38,Low,5 or more,College,More than 2,Bad
+A00000388,44,Medium,5 or more,High school,More than 2,Bad
+A00000389,25,Medium,5 or more,College,More than 2,Bad
+A00000390,33,Medium,5 or more,High school,More than 2,Bad
+A00000391,23,Medium,5 or more,High school,More than 2,Bad
+A00000392,22,Medium,5 or more,High school,More than 2,Bad
+A00000393,25,Medium,Less than 5,High school,None or 1,Bad
+A00000394,38,Medium,5 or more,College,More than 2,Bad
+A00000395,27,Low,5 or more,High school,More than 2,Bad
+A00000396,42,Low,5 or more,High school,More than 2,Bad
+A00000397,35,Low,5 or more,College,More than 2,Bad
+A00000398,32,Low,5 or more,High school,More than 2,Bad
+A00000399,34,Low,5 or more,High school,More than 2,Bad
+A00000400,23,Low,5 or more,High school,More than 2,Bad
+A00000401,33,Medium,5 or more,High school,More than 2,Bad
+A00000402,29,Medium,5 or more,College,More than 2,Bad
+A00000403,40,Medium,5 or more,High school,More than 2,Bad
+A00000404,25,Low,5 or more,High school,More than 2,Bad
+A00000405,45,Medium,5 or more,College,More than 2,Bad
+A00000406,26,Low,5 or more,College,More than 2,Bad
+A00000407,28,Low,5 or more,High school,More than 2,Bad
+A00000408,32,Medium,Less than 5,College,None or 1,Bad
+A00000409,37,Medium,Less than 5,College,None or 1,Bad
+A00000410,30,Low,5 or more,High school,More than 2,Bad
+A00000411,28,Low,5 or more,High school,More than 2,Bad
+A00000412,24,Low,5 or more,High school,More than 2,Bad
+A00000413,23,Low,5 or more,College,More than 2,Bad
+A00000414,24,Low,5 or more,High school,More than 2,Bad
+A00000415,22,Low,5 or more,High school,More than 2,Bad
+A00000416,35,Low,Less than 5,College,None or 1,Bad
+A00000417,22,High,5 or more,High school,None or 1,Bad
+A00000418,44,Low,5 or more,High school,More than 2,Bad
+A00000419,20,Low,Less than 5,College,More than 2,Bad
+A00000420,25,Medium,5 or more,College,More than 2,Bad
+A00000421,23,Low,5 or more,High school,More than 2,Bad
+A00000422,25,Medium,5 or more,College,None or 1,Bad
+A00000423,27,Medium,5 or more,High school,More than 2,Bad
+A00000424,30,Low,5 or more,College,More than 2,Bad
+A00000425,37,Medium,5 or more,College,More than 2,Bad
+A00000426,36,Low,5 or more,College,More than 2,Bad
+A00000427,31,Medium,5 or more,High school,More than 2,Bad
+A00000428,31,Medium,5 or more,College,More than 2,Bad
+A00000429,26,Medium,5 or more,College,More than 2,Bad
+A00000430,32,Low,5 or more,College,More than 2,Bad
+A00000431,37,Medium,5 or more,High school,None or 1,Bad
+A00000432,36,Low,5 or more,College,More than 2,Bad
+A00000433,25,Medium,Less than 5,College,None or 1,Bad
+A00000434,21,Low,Less than 5,High school,None or 1,Bad
+A00000435,32,High,Less than 5,High school,More than 2,Bad
+A00000436,30,Low,5 or more,High school,More than 2,Bad
+A00000437,44,Medium,5 or more,High school,More than 2,Bad
+A00000438,22,Medium,5 or more,High school,More than 2,Bad
+A00000439,31,Low,5 or more,College,None or 1,Bad
+A00000440,27,Low,5 or more,College,More than 2,Bad
+A00000441,30,Low,5 or more,College,None or 1,Bad
+A00000442,23,Medium,Less than 5,College,None or 1,Bad
+A00000443,26,High,5 or more,High school,None or 1,Bad
+A00000444,29,Low,5 or more,College,More than 2,Bad
+A00000445,21,Low,5 or more,College,More than 2,Bad
+A00000446,31,High,5 or more,High school,More than 2,Bad
+A00000447,38,Medium,Less than 5,College,None or 1,Bad
+A00000448,24,Low,5 or more,College,More than 2,Bad
+A00000449,27,Low,5 or more,College,More than 2,Bad
+A00000450,39,Low,5 or more,College,More than 2,Bad
+A00000451,31,Medium,5 or more,High school,More than 2,Bad
+A00000452,22,Medium,Less than 5,High school,None or 1,Bad
+A00000453,35,Medium,5 or more,High school,More than 2,Bad
+A00000454,39,Medium,5 or more,High school,More than 2,Bad
+A00000455,28,Low,5 or more,High school,More than 2,Bad
+A00000456,33,Medium,5 or more,High school,More than 2,Bad
+A00000457,41,Medium,5 or more,High school,More than 2,Bad
+A00000458,41,Medium,5 or more,High school,More than 2,Bad
+A00000459,41,Low,5 or more,High school,More than 2,Bad
+A00000460,33,Low,5 or more,High school,More than 2,Bad
+A00000461,35,Medium,5 or more,College,More than 2,Bad
+A00000462,24,Medium,5 or more,High school,More than 2,Bad
+A00000463,43,High,5 or more,College,More than 2,Bad
+A00000464,22,Low,Less than 5,High school,None or 1,Bad
+A00000465,27,Medium,5 or more,High school,More than 2,Bad
+A00000466,28,Low,5 or more,High school,More than 2,Bad
+A00000467,37,Low,5 or more,College,More than 2,Bad
+A00000468,28,Low,5 or more,College,More than 2,Bad
+A00000469,24,Low,5 or more,College,More than 2,Bad
+A00000470,23,Medium,5 or more,College,More than 2,Bad
+A00000471,38,Low,5 or more,High school,More than 2,Bad
+A00000472,27,Medium,5 or more,High school,More than 2,Bad
+A00000473,37,Low,5 or more,High school,More than 2,Bad
+A00000474,28,High,Less than 5,High school,None or 1,Bad
+A00000475,33,Low,5 or more,High school,More than 2,Bad
+A00000476,26,High,5 or more,College,More than 2,Bad
+A00000477,26,Medium,5 or more,High school,None or 1,Bad
+A00000478,28,Medium,Less than 5,College,None or 1,Bad
+A00000479,30,High,5 or more,High school,More than 2,Bad
+A00000480,34,Medium,Less than 5,High school,None or 1,Bad
+A00000481,27,Low,5 or more,College,More than 2,Bad
+A00000482,39,Low,5 or more,College,More than 2,Bad
+A00000483,27,Medium,5 or more,High school,More than 2,Bad
+A00000484,38,High,5 or more,College,More than 2,Bad
+A00000485,30,Medium,5 or more,High school,More than 2,Bad
+A00000486,30,Low,5 or more,College,More than 2,Bad
+A00000487,25,Medium,Less than 5,College,None or 1,Bad
+A00000488,21,Low,Less than 5,High school,More than 2,Bad
+A00000489,21,Medium,5 or more,High school,More than 2,Bad
+A00000490,38,High,5 or more,High school,More than 2,Bad
+A00000491,37,Low,5 or more,College,More than 2,Bad
+A00000492,24,Low,5 or more,High school,More than 2,Bad
+A00000493,23,Medium,5 or more,College,None or 1,Bad
+A00000494,29,Low,5 or more,High school,None or 1,Bad
+A00000495,24,Low,5 or more,High school,More than 2,Bad
+A00000496,39,Medium,5 or more,College,More than 2,Bad
+A00000497,22,Medium,Less than 5,High school,None or 1,Bad
+A00000498,35,Low,5 or more,College,More than 2,Bad
+A00000499,34,Low,5 or more,High school,More than 2,Bad
+A00000500,31,Low,5 or more,High school,More than 2,Bad
+A00000501,39,Medium,5 or more,College,More than 2,Bad
+A00000502,37,,5 or more,College,More than 2,Bad
+A00000503,38,High,5 or more,College,None or 1,Bad
+A00000504,21,Low,5 or more,College,None or 1,Bad
+A00000505,21,Low,5 or more,High school,None or 1,Bad
+A00000506,23,Medium,5 or more,High school,More than 2,Bad
+A00000507,23,Low,5 or more,College,More than 2,Bad
+A00000508,38,Low,5 or more,College,More than 2,Bad
+A00000509,29,Low,5 or more,College,More than 2,Bad
+A00000510,27,Low,5 or more,High school,More than 2,Bad
+A00000511,40,Medium,5 or more,College,More than 2,Bad
+A00000512,23,Medium,5 or more,High school,More than 2,Bad
+A00000513,28,Medium,5 or more,High school,More than 2,Bad
+A00000514,29,Medium,5 or more,College,More than 2,Bad
+A00000515,25,Medium,Less than 5,College,None or 1,Bad
+A00000516,22,Low,5 or more,High school,More than 2,Bad
+A00000517,23,Medium,5 or more,High school,More than 2,Bad
+A00000518,34,Medium,5 or more,High school,More than 2,Bad
+A00000519,33,High,Less than 5,College,None or 1,Bad
+A00000520,24,Medium,5 or more,College,More than 2,Bad
+A00000521,21,Medium,5 or more,College,More than 2,Bad
+A00000522,28,Low,5 or more,College,More than 2,Bad
+A00000523,24,Medium,5 or more,High school,None or 1,Bad
+A00000524,29,Medium,5 or more,College,More than 2,Bad
+A00000525,47,Medium,5 or more,High school,More than 2,Bad
+A00000526,25,Medium,5 or more,High school,More than 2,Bad
+A00000527,33,High,5 or more,College,More than 2,Bad
+A00000528,32,Medium,5 or more,College,More than 2,Bad
+A00000529,37,High,5 or more,High school,More than 2,Bad
+A00000530,35,Medium,5 or more,College,More than 2,Bad
+A00000531,25,Low,5 or more,High school,More than 2,Bad
+A00000532,34,High,5 or more,High school,More than 2,Bad
+A00000533,43,Low,5 or more,College,More than 2,Bad
+A00000534,27,Low,5 or more,High school,More than 2,Bad
+A00000535,30,Medium,Less than 5,High school,None or 1,Bad
+A00000536,48,High,5 or more,High school,None or 1,Bad
+A00000537,34,Low,5 or more,High school,More than 2,Bad
+A00000538,32,Low,5 or more,College,More than 2,Bad
+A00000539,34,Low,5 or more,College,More than 2,Bad
+A00000540,26,Medium,5 or more,High school,More than 2,Bad
+A00000541,23,Low,5 or more,College,None or 1,Bad
+A00000542,22,Medium,5 or more,High school,More than 2,Bad
+A00000543,29,Low,5 or more,High school,More than 2,Bad
+A00000544,28,Medium,5 or more,College,More than 2,Bad
+A00000545,26,Medium,5 or more,High school,More than 2,Bad
+A00000546,28,Medium,5 or more,High school,More than 2,Bad
+A00000547,27,Medium,5 or more,College,More than 2,Bad
+A00000548,33,Low,5 or more,College,More than 2,Bad
+A00000549,39,High,5 or more,High school,More than 2,Bad
+A00000550,44,Low,5 or more,College,More than 2,Bad
+A00000551,28,Medium,5 or more,College,More than 2,Bad
+A00000552,38,Medium,5 or more,College,None or 1,Bad
+A00000553,42,Medium,Less than 5,College,None or 1,Bad
+A00000554,30,Low,5 or more,College,More than 2,Bad
+A00000555,27,Low,5 or more,College,More than 2,Bad
+A00000556,48,High,5 or more,College,More than 2,Bad
+A00000557,37,Low,5 or more,College,More than 2,Bad
+A00000558,21,Low,5 or more,College,More than 2,Bad
+A00000559,40,Medium,5 or more,College,More than 2,Bad
+A00000560,43,Low,5 or more,High school,More than 2,Bad
+A00000561,21,Medium,5 or more,High school,More than 2,Bad
+A00000562,23,Low,5 or more,College,More than 2,Bad
+A00000563,30,Low,5 or more,College,More than 2,Bad
+A00000564,23,Low,5 or more,College,More than 2,Bad
+A00000565,40,Low,5 or more,High school,More than 2,Bad
+A00000566,27,Low,5 or more,College,More than 2,Bad
+A00000567,20,Medium,5 or more,College,More than 2,Bad
+A00000568,22,Low,5 or more,High school,More than 2,Bad
+A00000569,30,Low,5 or more,High school,More than 2,Bad
+A00000570,25,Low,5 or more,High school,More than 2,Bad
+A00000571,27,Low,5 or more,High school,More than 2,Bad
+A00000572,36,Low,5 or more,High school,More than 2,Bad
+A00000573,30,Medium,5 or more,College,More than 2,Bad
+A00000574,34,Medium,Less than 5,High school,None or 1,Bad
+A00000575,30,Medium,5 or more,High school,More than 2,Bad
+A00000576,38,Medium,5 or more,High school,More than 2,Bad
+A00000577,37,Low,5 or more,College,More than 2,Bad
+A00000578,28,Medium,5 or more,College,More than 2,Bad
+A00000579,38,Low,5 or more,College,More than 2,Bad
+A00000580,36,Low,5 or more,College,None or 1,Bad
+A00000581,36,Medium,5 or more,College,More than 2,Bad
+A00000582,37,Low,5 or more,High school,More than 2,Bad
+A00000583,31,Low,5 or more,High school,More than 2,Bad
+A00000584,28,Medium,5 or more,College,None or 1,Bad
+A00000585,29,Medium,5 or more,High school,More than 2,Bad
+A00000586,32,Medium,5 or more,College,None or 1,Bad
+A00000587,34,Low,5 or more,College,More than 2,Bad
+A00000588,32,Low,5 or more,College,More than 2,Bad
+A00000589,32,Medium,5 or more,College,None or 1,Bad
+A00000590,20,Low,5 or more,High school,More than 2,Bad
+A00000591,23,Medium,5 or more,High school,More than 2,Bad
+A00000592,36,Medium,5 or more,College,More than 2,Bad
+A00000593,39,Low,5 or more,High school,More than 2,Bad
+A00000594,29,High,Less than 5,High school,None or 1,Bad
+A00000595,31,Low,5 or more,College,More than 2,Bad
+A00000596,32,Medium,5 or more,High school,More than 2,Bad
+A00000597,34,Medium,5 or more,College,More than 2,Bad
+A00000598,24,Medium,5 or more,High school,More than 2,Bad
+A00000599,54,Medium,5 or more,High school,More than 2,Bad
+A00000600,23,Low,Less than 5,High school,None or 1,Bad
+A00000601,29,Low,Less than 5,College,None or 1,Bad
+A00000602,38,High,5 or more,High school,More than 2,Bad
+A00000603,38,Low,5 or more,College,More than 2,Bad
+A00000604,20,Medium,5 or more,College,More than 2,Bad
+A00000605,20,Medium,5 or more,High school,More than 2,Bad
+A00000606,27,Low,5 or more,College,None or 1,Bad
+A00000607,39,Low,5 or more,College,More than 2,Bad
+A00000608,35,Medium,5 or more,High school,More than 2,Bad
+A00000609,28,Medium,5 or more,College,More than 2,Bad
+A00000610,29,Medium,5 or more,College,More than 2,Bad
+A00000611,33,High,5 or more,High school,More than 2,Bad
+A00000612,23,Medium,5 or more,College,More than 2,Bad
+A00000613,22,High,Less than 5,High school,None or 1,Bad
+A00000614,37,Low,5 or more,College,More than 2,Bad
+A00000615,42,Medium,5 or more,College,More than 2,Bad
+A00000616,20,Low,5 or more,High school,None or 1,Bad
+A00000617,29,High,5 or more,College,None or 1,Bad
+A00000618,27,Medium,5 or more,College,More than 2,Bad
+A00000619,50,Low,5 or more,College,More than 2,Bad
+A00000620,36,Low,5 or more,College,More than 2,Bad
+A00000621,31,Low,5 or more,High school,None or 1,Bad
+A00000622,20,Medium,5 or more,High school,More than 2,Bad
+A00000623,31,Low,5 or more,College,More than 2,Bad
+A00000624,25,Medium,5 or more,High school,More than 2,Bad
+A00000625,21,Low,5 or more,High school,More than 2,Bad
+A00000626,27,Low,5 or more,College,More than 2,Bad
+A00000627,34,Low,5 or more,College,More than 2,Bad
+A00000628,21,Low,5 or more,College,More than 2,Bad
+A00000629,27,Low,5 or more,College,More than 2,Bad
+A00000630,38,Medium,5 or more,High school,More than 2,Bad
+A00000631,36,Low,5 or more,College,More than 2,Bad
+A00000632,27,Low,5 or more,High school,More than 2,Bad
+A00000633,30,Medium,5 or more,High school,More than 2,Bad
+A00000634,35,Medium,Less than 5,College,None or 1,Bad
+A00000635,29,Low,5 or more,College,More than 2,Bad
+A00000636,29,Medium,5 or more,College,More than 2,Bad
+A00000637,25,Low,5 or more,College,More than 2,Bad
+A00000638,30,High,5 or more,College,More than 2,Bad
+A00000639,28,Medium,5 or more,College,More than 2,Bad
+A00000640,22,Medium,5 or more,College,More than 2,Bad
+A00000641,33,Low,5 or more,High school,More than 2,Bad
+A00000642,25,High,5 or more,High school,More than 2,Bad
+A00000643,27,High,5 or more,College,More than 2,Bad
+A00000644,23,Medium,5 or more,High school,More than 2,Bad
+A00000645,31,Low,5 or more,College,More than 2,Bad
+A00000646,44,Low,5 or more,College,More than 2,Bad
+A00000647,24,Low,5 or more,High school,More than 2,Bad
+A00000648,21,Medium,5 or more,College,More than 2,Bad
+A00000649,24,Medium,5 or more,High school,More than 2,Bad
+A00000650,37,Medium,5 or more,High school,More than 2,Bad
+A00000651,32,Low,5 or more,College,More than 2,Bad
+A00000652,25,Medium,5 or more,College,More than 2,Bad
+A00000653,34,Medium,5 or more,High school,More than 2,Bad
+A00000654,34,Medium,5 or more,College,More than 2,Bad
+A00000655,27,Low,5 or more,High school,More than 2,Bad
+A00000656,21,Low,Less than 5,High school,None or 1,Bad
+A00000657,29,Low,5 or more,College,More than 2,Bad
+A00000658,26,Medium,5 or more,High school,More than 2,Bad
+A00000659,42,Medium,5 or more,High school,More than 2,Bad
+A00000660,23,Low,5 or more,College,More than 2,Bad
+A00000661,27,Low,5 or more,High school,More than 2,Bad
+A00000662,20,Medium,5 or more,High school,More than 2,Bad
+A00000663,27,Low,Less than 5,College,None or 1,Bad
+A00000664,24,Low,5 or more,High school,More than 2,Bad
+A00000665,28,Low,5 or more,High school,None or 1,Bad
+A00000666,35,Low,5 or more,High school,More than 2,Bad
+A00000667,26,High,5 or more,College,More than 2,Bad
+A00000668,20,Medium,5 or more,High school,None or 1,Bad
+A00000669,42,Medium,5 or more,College,More than 2,Bad
+A00000670,41,Medium,5 or more,High school,More than 2,Bad
+A00000671,22,Medium,5 or more,High school,More than 2,Bad
+A00000672,33,Medium,5 or more,High school,More than 2,Bad
+A00000673,26,Medium,5 or more,College,More than 2,Bad
+A00000674,26,Low,5 or more,High school,More than 2,Bad
+A00000675,29,Medium,5 or more,High school,More than 2,Bad
+A00000676,30,Low,5 or more,College,More than 2,Bad
+A00000677,27,Medium,5 or more,High school,More than 2,Bad
+A00000678,28,High,5 or more,High school,More than 2,Bad
+A00000679,36,Medium,5 or more,College,More than 2,Bad
+A00000680,41,Medium,5 or more,High school,None or 1,Bad
+A00000681,24,Medium,5 or more,High school,More than 2,Bad
+A00000682,29,Low,5 or more,High school,More than 2,Bad
+A00000683,30,Low,5 or more,High school,More than 2,Bad
+A00000684,51,Low,5 or more,High school,More than 2,Bad
+A00000685,30,Low,5 or more,College,More than 2,Bad
+A00000686,21,Medium,5 or more,High school,More than 2,Bad
+A00000687,21,Low,Less than 5,College,More than 2,Bad
+A00000688,,Low,5 or more,College,More than 2,Bad
+A00000689,38,High,5 or more,College,More than 2,Bad
+A00000690,40,Low,5 or more,High school,More than 2,Bad
+A00000691,34,Medium,5 or more,High school,More than 2,Bad
+A00000692,26,Medium,Less than 5,High school,None or 1,Bad
+A00000693,24,Low,5 or more,College,More than 2,Bad
+A00000694,27,Medium,5 or more,High school,More than 2,Bad
+A00000695,24,Medium,5 or more,High school,More than 2,Bad
+A00000696,34,High,5 or more,College,None or 1,Bad
+A00000697,22,Medium,5 or more,High school,More than 2,Bad
+A00000698,47,Medium,5 or more,High school,More than 2,Bad
+A00000699,34,Medium,5 or more,High school,More than 2,Bad
+A00000700,25,High,5 or more,High school,More than 2,Bad
+A00000701,29,Low,5 or more,High school,More than 2,Bad
+A00000702,31,Medium,5 or more,High school,None or 1,Bad
+A00000703,24,Low,5 or more,College,More than 2,Bad
+A00000704,26,Medium,5 or more,High school,More than 2,Bad
+A00000705,40,Medium,5 or more,High school,More than 2,Bad
+A00000706,47,Medium,5 or more,High school,More than 2,Bad
+A00000707,41,Low,5 or more,High school,More than 2,Bad
+A00000708,46,Low,5 or more,High school,More than 2,Bad
+A00000709,21,Medium,5 or more,College,More than 2,Bad
+A00000710,22,Low,5 or more,College,More than 2,Bad
+A00000711,31,Low,5 or more,High school,More than 2,Bad
+A00000712,35,Low,Less than 5,High school,None or 1,Bad
+A00000713,28,Low,5 or more,High school,More than 2,Bad
+A00000714,21,Low,5 or more,High school,More than 2,Bad
+A00000715,26,Low,5 or more,College,More than 2,Bad
+A00000716,44,Low,5 or more,College,More than 2,Bad
+A00000717,34,Medium,Less than 5,High school,None or 1,Bad
+A00000718,23,Medium,5 or more,High school,More than 2,Bad
+A00000719,26,Medium,5 or more,College,More than 2,Bad
+A00000720,26,Low,5 or more,College,None or 1,Bad
+A00000721,27,Medium,5 or more,High school,More than 2,Bad
+A00000722,20,Low,5 or more,High school,More than 2,Bad
+A00000723,33,Medium,5 or more,High school,More than 2,Bad
+A00000724,42,Low,5 or more,College,More than 2,Bad
+A00000725,28,Medium,5 or more,High school,More than 2,Bad
+A00000726,36,Low,5 or more,High school,More than 2,Bad
+A00000727,24,Medium,5 or more,College,More than 2,Bad
+A00000728,23,Medium,5 or more,College,More than 2,Bad
+A00000729,23,Medium,5 or more,High school,More than 2,Bad
+A00000730,27,Medium,5 or more,College,More than 2,Bad
+A00000731,36,Low,5 or more,College,More than 2,Bad
+A00000732,34,Medium,5 or more,College,More than 2,Bad
+A00000733,31,Low,5 or more,High school,More than 2,Bad
+A00000734,28,Medium,5 or more,College,More than 2,Bad
+A00000735,35,Medium,5 or more,College,More than 2,Bad
+A00000736,24,Medium,5 or more,College,More than 2,Bad
+A00000737,31,Medium,5 or more,High school,More than 2,Bad
+A00000738,29,Low,5 or more,College,More than 2,Bad
+A00000739,22,Low,Less than 5,College,More than 2,Bad
+A00000740,21,Low,5 or more,High school,More than 2,Bad
+A00000741,38,High,5 or more,College,More than 2,Bad
+A00000742,34,Low,5 or more,College,More than 2,Bad
+A00000743,33,Medium,5 or more,High school,More than 2,Bad
+A00000744,24,Low,5 or more,College,More than 2,Bad
+A00000745,21,Medium,5 or more,College,More than 2,Bad
+A00000746,31,Medium,5 or more,High school,More than 2,Bad
+A00000747,25,Low,5 or more,College,None or 1,Bad
+A00000748,43,Low,5 or more,High school,More than 2,Bad
+A00000749,21,Low,5 or more,College,More than 2,Bad
+A00000750,32,Low,5 or more,High school,More than 2,Bad
+A00000751,29,Medium,5 or more,High school,More than 2,Bad
+A00000752,30,High,5 or more,High school,More than 2,Bad
+A00000753,20,Medium,5 or more,College,More than 2,Bad
+A00000754,42,Low,5 or more,High school,More than 2,Bad
+A00000755,35,Low,5 or more,College,More than 2,Bad
+A00000756,39,Medium,5 or more,College,More than 2,Bad
+A00000757,38,Low,5 or more,High school,More than 2,Bad
+A00000758,25,Medium,5 or more,College,More than 2,Bad
+A00000759,26,Low,5 or more,College,More than 2,Bad
+A00000760,25,Medium,Less than 5,College,None or 1,Bad
+A00000761,22,Medium,5 or more,College,More than 2,Bad
+A00000762,36,Medium,5 or more,High school,More than 2,Bad
+A00000763,34,Low,5 or more,High school,More than 2,Bad
+A00000764,26,Medium,5 or more,High school,More than 2,Bad
+A00000765,20,Medium,5 or more,High school,More than 2,Bad
+A00000766,40,Low,5 or more,College,More than 2,Bad
+A00000767,26,Medium,5 or more,College,More than 2,Bad
+A00000768,24,Low,5 or more,College,None or 1,Bad
+A00000769,40,Low,5 or more,High school,More than 2,Bad
+A00000770,41,Low,5 or more,High school,More than 2,Bad
+A00000771,28,Medium,5 or more,College,More than 2,Bad
+A00000772,20,Medium,5 or more,High school,None or 1,Bad
+A00000773,23,Low,5 or more,High school,More than 2,Bad
+A00000774,25,Medium,5 or more,College,More than 2,Bad
+A00000775,27,Medium,5 or more,College,More than 2,Bad
+A00000776,22,Low,5 or more,College,More than 2,Bad
+A00000777,20,Medium,5 or more,College,More than 2,Bad
+A00000778,45,Medium,5 or more,High school,More than 2,Bad
+A00000779,39,Medium,5 or more,High school,More than 2,Bad
+A00000780,34,Low,Less than 5,High school,None or 1,Bad
+A00000781,29,High,5 or more,College,None or 1,Bad
+A00000782,21,Low,5 or more,High school,More than 2,Bad
+A00000783,34,Medium,5 or more,High school,None or 1,Bad
+A00000784,26,Low,5 or more,High school,More than 2,Bad
+A00000785,34,Medium,Less than 5,High school,None or 1,Bad
+A00000786,38,,5 or more,High school,More than 2,Bad
+A00000787,36,Medium,5 or more,College,More than 2,Bad
+A00000788,22,Medium,5 or more,College,More than 2,Bad
+A00000789,22,Low,5 or more,High school,More than 2,Bad
+A00000790,35,Low,5 or more,High school,More than 2,Bad
+A00000791,22,Low,5 or more,High school,More than 2,Bad
+A00000792,39,Medium,5 or more,High school,More than 2,Bad
+A00000793,21,Low,Less than 5,High school,None or 1,Bad
+A00000794,26,Medium,5 or more,College,More than 2,Bad
+A00000795,30,Low,5 or more,High school,More than 2,Bad
+A00000796,35,Low,5 or more,College,More than 2,Bad
+A00000797,33,Medium,5 or more,High school,None or 1,Bad
+A00000798,27,Medium,5 or more,College,None or 1,Bad
+A00000799,31,Low,5 or more,College,None or 1,Bad
+A00000800,25,Low,5 or more,College,More than 2,Bad
+A00000801,28,High,5 or more,College,More than 2,Bad
+A00000802,24,Low,5 or more,College,More than 2,Bad
+A00000803,21,Medium,5 or more,College,More than 2,Bad
+A00000804,35,Medium,5 or more,High school,More than 2,Bad
+A00000805,32,Low,5 or more,High school,More than 2,Bad
+A00000806,31,Low,5 or more,College,More than 2,Bad
+A00000807,25,Medium,Less than 5,High school,None or 1,Bad
+A00000808,38,Medium,5 or more,College,More than 2,Bad
+A00000809,22,High,5 or more,High school,None or 1,Bad
+A00000810,24,Low,5 or more,High school,More than 2,Bad
+A00000811,24,Medium,5 or more,College,None or 1,Bad
+A00000812,44,Low,5 or more,College,More than 2,Bad
+A00000813,41,Low,5 or more,College,More than 2,Bad
+A00000814,25,Low,5 or more,High school,More than 2,Bad
+A00000815,23,Medium,5 or more,High school,More than 2,Bad
+A00000816,23,High,5 or more,College,More than 2,Bad
+A00000817,24,High,5 or more,High school,More than 2,Bad
+A00000818,48,Low,5 or more,College,More than 2,Bad
+A00000819,20,Medium,5 or more,College,More than 2,Bad
+A00000820,47,Low,5 or more,College,More than 2,Bad
+A00000821,26,Low,5 or more,College,More than 2,Bad
+A00000822,32,Low,5 or more,High school,More than 2,Bad
+A00000823,24,Low,5 or more,High school,More than 2,Bad
+A00000824,27,High,5 or more,College,None or 1,Bad
+A00000825,34,Medium,5 or more,College,More than 2,Bad
+A00000826,29,Low,5 or more,College,None or 1,Bad
+A00000827,25,Medium,5 or more,High school,More than 2,Bad
+A00000828,27,Medium,Less than 5,College,None or 1,Bad
+A00000829,28,High,5 or more,High school,More than 2,Bad
+A00000830,27,High,5 or more,High school,More than 2,Bad
+A00000831,29,Low,5 or more,College,More than 2,Bad
+A00000832,23,Medium,5 or more,High school,More than 2,Bad
+A00000833,22,Medium,5 or more,High school,More than 2,Bad
+A00000834,31,Medium,5 or more,High school,More than 2,Bad
+A00000835,21,Low,5 or more,High school,More than 2,Bad
+A00000836,24,Low,5 or more,College,More than 2,Bad
+A00000837,21,Medium,5 or more,College,More than 2,Bad
+A00000838,23,Medium,Less than 5,College,None or 1,Bad
+A00000839,27,High,5 or more,High school,More than 2,Bad
+A00000840,29,Low,5 or more,College,More than 2,Bad
+A00000841,38,Medium,5 or more,College,More than 2,Bad
+A00000842,30,,5 or more,College,More than 2,Bad
+A00000843,25,Medium,5 or more,High school,More than 2,Bad
+A00000844,23,Medium,5 or more,High school,More than 2,Bad
+A00000845,27,Low,5 or more,College,None or 1,Bad
+A00000846,29,Low,5 or more,High school,More than 2,Bad
+A00000847,29,Medium,Less than 5,High school,None or 1,Bad
+A00000848,25,Low,5 or more,High school,More than 2,Bad
+A00000849,35,High,5 or more,High school,More than 2,Bad
+A00000850,22,Low,5 or more,College,More than 2,Bad
+A00000851,28,Low,5 or more,High school,More than 2,Bad
+A00000852,32,Low,5 or more,High school,More than 2,Bad
+A00000853,21,Medium,5 or more,College,More than 2,Bad
+A00000854,41,High,5 or more,College,More than 2,Bad
+A00000855,32,Low,5 or more,College,More than 2,Bad
+A00000856,29,Medium,5 or more,College,More than 2,Bad
+A00000857,28,High,5 or more,College,More than 2,Bad
+A00000858,37,Medium,5 or more,College,More than 2,Bad
+A00000859,25,Medium,Less than 5,College,None or 1,Bad
+A00000860,25,Low,5 or more,College,More than 2,Bad
+A00000861,23,High,5 or more,High school,More than 2,Bad
+A00000862,25,Medium,5 or more,High school,More than 2,Bad
+A00000863,32,Low,5 or more,High school,More than 2,Bad
+A00000864,22,Medium,5 or more,High school,More than 2,Bad
+A00000865,27,Low,5 or more,College,More than 2,Bad
+A00000866,28,Medium,5 or more,College,More than 2,Bad
+A00000867,44,Medium,5 or more,High school,More than 2,Bad
+A00000868,23,Medium,5 or more,High school,More than 2,Bad
+A00000869,36,Medium,5 or more,College,More than 2,Bad
+A00000870,26,Low,5 or more,College,More than 2,Bad
+A00000871,36,Low,Less than 5,High school,None or 1,Bad
+A00000872,36,High,5 or more,High school,More than 2,Bad
+A00000873,37,Medium,5 or more,High school,More than 2,Bad
+A00000874,24,Low,5 or more,College,More than 2,Bad
+A00000875,47,Medium,5 or more,High school,More than 2,Bad
+A00000876,23,Low,5 or more,High school,More than 2,Bad
+A00000877,23,Low,5 or more,High school,More than 2,Bad
+A00000878,28,Low,5 or more,College,None or 1,Bad
+A00000879,25,Low,5 or more,High school,More than 2,Bad
+A00000880,26,Medium,5 or more,High school,More than 2,Bad
+A00000881,20,Medium,5 or more,High school,More than 2,Bad
+A00000882,31,Medium,5 or more,High school,More than 2,Bad
+A00000883,33,Low,5 or more,College,More than 2,Bad
+A00000884,23,Low,5 or more,College,More than 2,Bad
+A00000885,21,Low,5 or more,College,More than 2,Bad
+A00000886,24,Low,Less than 5,College,None or 1,Bad
+A00000887,24,High,5 or more,High school,More than 2,Bad
+A00000888,21,Low,5 or more,High school,More than 2,Bad
+A00000889,29,High,5 or more,High school,More than 2,Bad
+A00000890,21,Low,5 or more,High school,More than 2,Bad
+A00000891,27,Medium,5 or more,High school,None or 1,Bad
+A00000892,35,Low,5 or more,High school,More than 2,Bad
+A00000893,26,Medium,5 or more,High school,More than 2,Bad
+A00000894,25,Medium,5 or more,College,More than 2,Bad
+A00000895,20,Low,5 or more,High school,More than 2,Bad
+A00000896,29,Low,5 or more,College,More than 2,Bad
+A00000897,23,Medium,5 or more,High school,More than 2,Bad
+A00000898,29,High,5 or more,College,More than 2,Bad
+A00000899,21,Low,5 or more,High school,More than 2,Bad
+A00000900,26,High,5 or more,High school,More than 2,Bad
+A00000901,25,Medium,5 or more,High school,More than 2,Bad
+A00000902,27,Medium,5 or more,High school,More than 2,Bad
+A00000903,31,Medium,5 or more,College,More than 2,Bad
+A00000904,42,Low,5 or more,College,More than 2,Bad
+A00000905,34,Medium,5 or more,High school,More than 2,Bad
+A00000906,39,Low,5 or more,High school,More than 2,Bad
+A00000907,38,Low,5 or more,College,None or 1,Bad
+A00000908,41,Medium,5 or more,College,More than 2,Bad
+A00000909,23,Medium,5 or more,High school,More than 2,Bad
+A00000910,23,Medium,5 or more,High school,More than 2,Bad
+A00000911,23,Low,5 or more,College,More than 2,Bad
+A00000912,31,Medium,5 or more,High school,More than 2,Bad
+A00000913,30,Low,5 or more,College,More than 2,Bad
+A00000914,52,Low,5 or more,High school,More than 2,Bad
+A00000915,22,Medium,5 or more,High school,More than 2,Bad
+A00000916,38,Medium,5 or more,High school,More than 2,Bad
+A00000917,36,Medium,5 or more,High school,More than 2,Bad
+A00000918,33,High,5 or more,High school,More than 2,Bad
+A00000919,23,Medium,5 or more,College,More than 2,Bad
+A00000920,42,Low,5 or more,College,More than 2,Bad
+A00000921,31,Low,5 or more,High school,More than 2,Bad
+A00000922,30,Medium,5 or more,College,More than 2,Bad
+A00000923,37,Low,Less than 5,College,None or 1,Bad
+A00000924,28,Low,5 or more,High school,More than 2,Bad
+A00000925,31,,5 or more,High school,More than 2,Bad
+A00000926,25,Low,5 or more,High school,More than 2,Bad
+A00000927,31,High,5 or more,College,More than 2,Bad
+A00000928,26,Medium,5 or more,High school,More than 2,Bad
+A00000929,26,Low,5 or more,College,More than 2,Bad
+A00000930,48,Low,5 or more,College,More than 2,Bad
+A00000931,43,Low,5 or more,College,More than 2,Bad
+A00000932,23,Low,5 or more,High school,More than 2,Bad
+A00000933,31,Low,5 or more,College,More than 2,Bad
+A00000934,32,High,5 or more,College,More than 2,Bad
+A00000935,27,Low,5 or more,High school,More than 2,Bad
+A00000936,32,High,5 or more,College,None or 1,Bad
+A00000937,31,Medium,5 or more,College,More than 2,Bad
+A00000938,26,Medium,5 or more,College,More than 2,Bad
+A00000939,26,Medium,5 or more,College,More than 2,Bad
+A00000940,30,Low,Less than 5,College,None or 1,Bad
+A00000941,20,Low,5 or more,High school,More than 2,Bad
+A00000942,26,Medium,5 or more,High school,None or 1,Bad
+A00000943,34,Low,5 or more,College,More than 2,Bad
+A00000944,27,Low,5 or more,High school,More than 2,Bad
+A00000945,33,High,5 or more,High school,None or 1,Bad
+A00000946,36,Medium,5 or more,College,More than 2,Bad
+A00000947,29,Medium,5 or more,College,More than 2,Bad
+A00000948,34,High,Less than 5,High school,None or 1,Bad
+A00000949,27,Low,5 or more,College,More than 2,Bad
+A00000950,24,High,Less than 5,College,More than 2,Bad
+A00000951,20,Low,5 or more,College,More than 2,Bad
+A00000952,26,Low,5 or more,High school,More than 2,Bad
+A00000953,41,Low,Less than 5,High school,None or 1,Bad
+A00000954,21,Medium,5 or more,High school,More than 2,Bad
+A00000955,30,High,5 or more,High school,More than 2,Bad
+A00000956,22,Medium,5 or more,High school,More than 2,Bad
+A00000957,23,High,5 or more,College,More than 2,Bad
+A00000958,30,Medium,5 or more,High school,More than 2,Bad
+A00000959,22,Low,5 or more,High school,More than 2,Bad
+A00000960,31,Low,5 or more,College,More than 2,Bad
+A00000961,34,Low,5 or more,High school,More than 2,Bad
+A00000962,41,Medium,5 or more,College,More than 2,Bad
+A00000963,28,Low,5 or more,High school,More than 2,Bad
+A00000964,31,High,Less than 5,College,None or 1,Bad
+A00000965,49,Low,5 or more,College,More than 2,Bad
+A00000966,34,Low,5 or more,College,More than 2,Bad
+A00000967,42,Medium,5 or more,College,More than 2,Bad
+A00000968,41,High,5 or more,High school,More than 2,Bad
+A00000969,28,Medium,5 or more,College,More than 2,Bad
+A00000970,21,Medium,5 or more,High school,More than 2,Bad
+A00000971,35,Medium,5 or more,College,More than 2,Bad
+A00000972,43,Medium,5 or more,College,More than 2,Bad
+A00000973,22,Low,5 or more,College,None or 1,Bad
+A00000974,41,Low,5 or more,High school,More than 2,Bad
+A00000975,23,Medium,5 or more,High school,More than 2,Bad
+A00000976,33,High,5 or more,College,More than 2,Bad
+A00000977,55,High,5 or more,College,More than 2,Bad
+A00000978,24,High,5 or more,College,More than 2,Bad
+A00000979,26,Medium,5 or more,College,More than 2,Bad
+A00000980,47,Low,5 or more,College,More than 2,Bad
+A00000981,32,Low,5 or more,High school,More than 2,Bad
+A00000982,21,Medium,5 or more,College,None or 1,Bad
+A00000983,24,Low,Less than 5,High school,None or 1,Bad
+A00000984,40,Medium,5 or more,High school,More than 2,Bad
+A00000985,30,High,Less than 5,College,None or 1,Bad
+A00000986,28,Low,Less than 5,College,None or 1,Bad
+A00000987,41,High,5 or more,High school,None or 1,Bad
+A00000988,28,Medium,5 or more,College,More than 2,Bad
+A00000989,25,Low,5 or more,College,More than 2,Bad
+A00000990,31,Medium,5 or more,College,More than 2,Bad
+A00000991,29,Medium,5 or more,College,None or 1,Bad
+A00000992,30,High,5 or more,High school,More than 2,Bad
+A00000993,28,Low,5 or more,High school,More than 2,Bad
+A00000994,21,Medium,5 or more,College,More than 2,Bad
+A00000995,30,Medium,Less than 5,High school,None or 1,Bad
+A00000996,41,Medium,5 or more,College,More than 2,Bad
+A00000997,23,Low,5 or more,High school,More than 2,Bad
+A00000998,27,Medium,5 or more,High school,More than 2,Bad
+A00000999,38,Low,5 or more,College,More than 2,Bad
+A00001000,50,Low,5 or more,College,More than 2,Bad
+A00001001,30,Medium,5 or more,College,More than 2,Bad
+A00001002,28,Medium,5 or more,College,More than 2,Bad
+A00001003,22,Low,5 or more,College,More than 2,Bad
+A00001004,24,Low,5 or more,High school,More than 2,Bad
+A00001005,24,Low,5 or more,College,More than 2,Bad
+A00001006,20,Medium,5 or more,College,More than 2,Bad
+A00001007,29,Low,5 or more,College,More than 2,Bad
+A00001008,23,Medium,5 or more,College,More than 2,Bad
+A00001009,27,Low,5 or more,High school,More than 2,Bad
+A00001010,21,Medium,5 or more,College,More than 2,Bad
+A00001011,21,Low,Less than 5,College,More than 2,Bad
+A00001012,30,Low,5 or more,College,More than 2,Bad
+A00001013,22,Low,5 or more,High school,More than 2,Bad
+A00001014,46,Medium,5 or more,College,More than 2,Bad
+A00001015,27,Medium,5 or more,High school,None or 1,Bad
+A00001016,22,Medium,5 or more,High school,More than 2,Bad
+A00001017,21,Medium,Less than 5,College,None or 1,Bad
+A00001018,39,Medium,5 or more,High school,More than 2,Bad
+A00001019,33,Low,5 or more,College,More than 2,Bad
+A00001020,23,Medium,5 or more,College,More than 2,Bad
+A00001021,57,High,Less than 5,High school,None or 1,Good
+A00001022,51,Medium,5 or more,High school,More than 2,Good
+A00001023,27,High,Less than 5,High school,None or 1,Good
+A00001024,28,Low,Less than 5,High school,None or 1,Good
+A00001025,30,High,Less than 5,High school,More than 2,Good
+A00001026,28,High,5 or more,High school,More than 2,Good
+A00001027,42,High,5 or more,High school,None or 1,Good
+A00001028,35,Medium,5 or more,High school,None or 1,Good
+A00001029,24,,Less than 5,High school,None or 1,Good
+A00001030,36,High,Less than 5,High school,None or 1,Good
+A00001031,30,Medium,Less than 5,College,None or 1,Good
+A00001032,41,Medium,Less than 5,College,None or 1,Good
+A00001033,42,Medium,5 or more,College,More than 2,Good
+A00001034,44,Medium,5 or more,College,More than 2,Good
+A00001035,42,High,5 or more,College,More than 2,Good
+A00001036,39,High,5 or more,College,None or 1,Good
+A00001037,54,High,5 or more,College,More than 2,Good
+A00001038,37,Medium,Less than 5,High school,None or 1,Good
+A00001039,40,Low,5 or more,High school,More than 2,Good
+A00001040,33,Medium,Less than 5,High school,None or 1,Good
+A00001041,31,Medium,5 or more,High school,More than 2,Good
+A00001042,34,Medium,5 or more,High school,More than 2,Good
+A00001043,38,High,5 or more,College,None or 1,Good
+A00001044,48,High,5 or more,College,More than 2,Good
+A00001045,44,Medium,5 or more,College,More than 2,Good
+A00001046,39,Medium,Less than 5,College,None or 1,Good
+A00001047,39,Medium,5 or more,High school,More than 2,Good
+A00001048,34,Medium,Less than 5,High school,None or 1,Good
+A00001049,36,Medium,Less than 5,College,None or 1,Good
+A00001050,32,Medium,Less than 5,High school,None or 1,Good
+A00001051,29,Medium,5 or more,College,More than 2,Good
+A00001052,38,Medium,Less than 5,College,None or 1,Good
+A00001053,34,High,5 or more,High school,More than 2,Good
+A00001054,27,Medium,5 or more,High school,More than 2,Good
+A00001055,22,High,Less than 5,High school,None or 1,Good
+A00001056,43,Medium,Less than 5,College,None or 1,Good
+A00001057,40,Low,5 or more,College,More than 2,Good
+A00001058,21,Medium,5 or more,College,None or 1,Good
+A00001059,38,Medium,5 or more,College,More than 2,Good
+A00001060,43,High,Less than 5,College,None or 1,Good
+A00001061,36,Medium,5 or more,High school,More than 2,Good
+A00001062,40,High,5 or more,High school,More than 2,Good
+A00001063,38,Medium,5 or more,High school,More than 2,Good
+A00001064,30,High,Less than 5,College,More than 2,Good
+A00001065,34,Medium,Less than 5,College,None or 1,Good
+A00001066,32,Medium,Less than 5,College,None or 1,Good
+A00001067,47,Medium,Less than 5,High school,None or 1,Good
+A00001068,36,High,Less than 5,High school,None or 1,Good
+A00001069,27,High,Less than 5,High school,None or 1,Good
+A00001070,30,High,5 or more,High school,More than 2,Good
+A00001071,28,High,Less than 5,College,More than 2,Good
+A00001072,29,High,5 or more,High school,More than 2,Good
+A00001073,42,Medium,Less than 5,High school,None or 1,Good
+A00001074,52,Medium,Less than 5,College,More than 2,Good
+A00001075,34,Medium,Less than 5,High school,None or 1,Good
+A00001076,43,High,Less than 5,College,None or 1,Good
+A00001077,30,Medium,Less than 5,College,None or 1,Good
+A00001078,38,Medium,5 or more,High school,More than 2,Good
+A00001079,28,Medium,Less than 5,High school,None or 1,Good
+A00001080,47,Medium,Less than 5,High school,None or 1,Good
+A00001081,40,High,5 or more,College,More than 2,Good
+A00001082,58,Medium,5 or more,High school,None or 1,Good
+A00001083,25,High,5 or more,College,More than 2,Good
+A00001084,37,Medium,5 or more,High school,More than 2,Good
+A00001085,40,High,5 or more,High school,None or 1,Good
+A00001086,40,Medium,Less than 5,College,None or 1,Good
+A00001087,43,High,Less than 5,College,None or 1,Good
+A00001088,45,Medium,Less than 5,College,None or 1,Good
+A00001089,21,High,5 or more,High school,More than 2,Good
+A00001090,41,High,Less than 5,College,None or 1,Good
+A00001091,48,Low,5 or more,High school,None or 1,Good
+A00001092,47,Medium,5 or more,High school,More than 2,Good
+A00001093,33,Medium,5 or more,High school,More than 2,Good
+A00001094,28,Medium,Less than 5,College,None or 1,Good
+A00001095,50,Medium,5 or more,College,More than 2,Good
+A00001096,36,High,Less than 5,College,None or 1,Good
+A00001097,42,High,5 or more,College,More than 2,Good
+A00001098,35,Medium,Less than 5,College,None or 1,Good
+A00001099,34,High,Less than 5,College,None or 1,Good
+A00001100,40,High,Less than 5,High school,None or 1,Good
+A00001101,42,High,5 or more,College,More than 2,Good
+A00001102,33,High,5 or more,High school,More than 2,Good
+A00001103,26,High,5 or more,High school,None or 1,Good
+A00001104,25,High,5 or more,High school,More than 2,Good
+A00001105,30,Medium,5 or more,High school,More than 2,Good
+A00001106,28,High,Less than 5,High school,None or 1,Good
+A00001107,36,High,5 or more,College,More than 2,Good
+A00001108,44,Medium,Less than 5,College,None or 1,Good
+A00001109,35,High,5 or more,College,More than 2,Good
+A00001110,41,High,5 or more,High school,More than 2,Good
+A00001111,37,Medium,5 or more,High school,More than 2,Good
+A00001112,38,High,Less than 5,High school,None or 1,Good
+A00001113,47,Medium,Less than 5,High school,None or 1,Good
+A00001114,31,Low,5 or more,High school,More than 2,Good
+A00001115,36,Low,Less than 5,College,More than 2,Good
+A00001116,55,Medium,Less than 5,High school,None or 1,Good
+A00001117,27,Medium,Less than 5,High school,None or 1,Good
+A00001118,37,High,Less than 5,High school,None or 1,Good
+A00001119,28,High,5 or more,College,More than 2,Good
+A00001120,42,High,5 or more,College,More than 2,Good
+A00001121,40,High,Less than 5,High school,None or 1,Good
+A00001122,40,High,5 or more,College,More than 2,Good
+A00001123,41,High,5 or more,College,More than 2,Good
+A00001124,35,High,5 or more,College,More than 2,Good
+A00001125,38,Medium,Less than 5,College,None or 1,Good
+A00001126,28,Low,5 or more,High school,More than 2,Good
+A00001127,48,Medium,Less than 5,College,More than 2,Good
+A00001128,44,Low,Less than 5,College,None or 1,Good
+A00001129,28,Medium,5 or more,College,More than 2,Good
+A00001130,23,Medium,5 or more,High school,More than 2,Good
+A00001131,28,Medium,Less than 5,College,None or 1,Good
+A00001132,32,Medium,5 or more,College,More than 2,Good
+A00001133,33,Medium,5 or more,College,More than 2,Good
+A00001134,22,High,Less than 5,College,None or 1,Good
+A00001135,34,High,Less than 5,High school,None or 1,Good
+A00001136,36,High,Less than 5,College,None or 1,Good
+A00001137,36,Medium,Less than 5,College,More than 2,Good
+A00001138,28,High,Less than 5,College,None or 1,Good
+A00001139,43,Medium,5 or more,College,More than 2,Good
+A00001140,47,High,Less than 5,High school,None or 1,Good
+A00001141,36,High,Less than 5,College,None or 1,Good
+A00001142,31,Medium,5 or more,College,None or 1,Good
+A00001143,48,High,5 or more,High school,More than 2,Good
+A00001144,59,High,5 or more,College,More than 2,Good
+A00001145,32,Low,Less than 5,High school,None or 1,Good
+A00001146,48,High,5 or more,College,None or 1,Good
+A00001147,46,Medium,Less than 5,College,None or 1,Good
+A00001148,41,Medium,5 or more,High school,More than 2,Good
+A00001149,36,Medium,5 or more,High school,More than 2,Good
+A00001150,34,Medium,Less than 5,High school,More than 2,Good
+A00001151,34,Medium,Less than 5,College,None or 1,Good
+A00001152,49,High,5 or more,College,More than 2,Good
+A00001153,38,High,Less than 5,College,None or 1,Good
+A00001154,35,Medium,5 or more,College,More than 2,Good
+A00001155,46,Medium,Less than 5,High school,None or 1,Good
+A00001156,21,High,Less than 5,College,None or 1,Good
+A00001157,31,High,5 or more,High school,More than 2,Good
+A00001158,42,High,5 or more,High school,More than 2,Good
+A00001159,40,Medium,Less than 5,High school,None or 1,Good
+A00001160,31,High,Less than 5,High school,None or 1,Good
+A00001161,41,High,Less than 5,College,None or 1,Good
+A00001162,35,High,5 or more,High school,More than 2,Good
+A00001163,43,High,5 or more,High school,More than 2,Good
+A00001164,32,Medium,Less than 5,High school,None or 1,Good
+A00001165,39,Medium,Less than 5,High school,None or 1,Good
+A00001166,51,Medium,Less than 5,High school,None or 1,Good
+A00001167,36,Medium,Less than 5,High school,None or 1,Good
+A00001168,42,High,Less than 5,College,None or 1,Good
+A00001169,21,Medium,Less than 5,College,None or 1,Good
+A00001170,32,Medium,Less than 5,High school,None or 1,Good
+A00001171,45,High,5 or more,College,More than 2,Good
+A00001172,41,Medium,Less than 5,College,None or 1,Good
+A00001173,57,Medium,Less than 5,High school,None or 1,Good
+A00001174,49,Medium,Less than 5,High school,None or 1,Good
+A00001175,38,High,5 or more,College,More than 2,Good
+A00001176,42,High,5 or more,College,More than 2,Good
+A00001177,49,High,5 or more,College,More than 2,Good
+A00001178,40,High,Less than 5,College,None or 1,Good
+A00001179,33,High,Less than 5,College,None or 1,Good
+A00001180,23,Medium,5 or more,High school,More than 2,Good
+A00001181,39,High,5 or more,College,More than 2,Good
+A00001182,34,Medium,Less than 5,College,None or 1,Good
+A00001183,37,Medium,Less than 5,College,None or 1,Good
+A00001184,28,High,Less than 5,College,None or 1,Good
+A00001185,29,High,5 or more,College,More than 2,Good
+A00001186,47,High,Less than 5,College,None or 1,Good
+A00001187,27,Low,Less than 5,High school,None or 1,Good
+A00001188,29,Medium,5 or more,College,None or 1,Good
+A00001189,50,High,5 or more,High school,More than 2,Good
+A00001190,40,High,5 or more,College,More than 2,Good
+A00001191,33,Medium,Less than 5,College,More than 2,Good
+A00001192,37,Medium,Less than 5,High school,None or 1,Good
+A00001193,32,High,Less than 5,High school,None or 1,Good
+A00001194,38,High,5 or more,College,More than 2,Good
+A00001195,40,Medium,Less than 5,College,None or 1,Good
+A00001196,41,Medium,5 or more,College,More than 2,Good
+A00001197,26,High,Less than 5,High school,More than 2,Good
+A00001198,36,Medium,5 or more,College,More than 2,Good
+A00001199,41,High,Less than 5,College,None or 1,Good
+A00001200,51,High,5 or more,College,More than 2,Good
+A00001201,27,Medium,Less than 5,College,None or 1,Good
+A00001202,30,Low,Less than 5,College,None or 1,Good
+A00001203,41,Medium,Less than 5,High school,None or 1,Good
+A00001204,25,Medium,Less than 5,High school,None or 1,Good
+A00001205,40,Low,5 or more,High school,More than 2,Good
+A00001206,,Medium,5 or more,High school,More than 2,Good
+A00001207,21,Medium,Less than 5,High school,None or 1,Good
+A00001208,29,High,5 or more,College,More than 2,Good
+A00001209,36,High,Less than 5,College,None or 1,Good
+A00001210,28,High,Less than 5,High school,None or 1,Good
+A00001211,28,High,5 or more,College,More than 2,Good
+A00001212,37,High,5 or more,College,More than 2,Good
+A00001213,35,High,5 or more,High school,More than 2,Good
+A00001214,43,Medium,5 or more,High school,More than 2,Good
+A00001215,38,Medium,5 or more,College,More than 2,Good
+A00001216,42,High,Less than 5,College,None or 1,Good
+A00001217,28,Medium,Less than 5,College,None or 1,Good
+A00001218,36,High,5 or more,College,More than 2,Good
+A00001219,33,High,5 or more,High school,None or 1,Good
+A00001220,33,Medium,5 or more,High school,More than 2,Good
+A00001221,28,High,Less than 5,College,None or 1,Good
+A00001222,28,Medium,5 or more,College,More than 2,Good
+A00001223,38,Medium,Less than 5,High school,None or 1,Good
+A00001224,31,High,5 or more,High school,More than 2,Good
+A00001225,53,High,5 or more,College,More than 2,Good
+A00001226,34,High,Less than 5,College,None or 1,Good
+A00001227,45,Medium,Less than 5,College,None or 1,Good
+A00001228,30,High,5 or more,High school,None or 1,Good
+A00001229,21,High,5 or more,College,More than 2,Good
+A00001230,29,High,Less than 5,High school,None or 1,Good
+A00001231,39,High,Less than 5,College,None or 1,Good
+A00001232,39,Medium,Less than 5,High school,None or 1,Good
+A00001233,49,High,Less than 5,College,None or 1,Good
+A00001234,42,Medium,Less than 5,High school,None or 1,Good
+A00001235,32,Medium,Less than 5,College,None or 1,Good
+A00001236,42,High,Less than 5,College,None or 1,Good
+A00001237,48,High,Less than 5,High school,None or 1,Good
+A00001238,34,High,5 or more,High school,More than 2,Good
+A00001239,42,Medium,Less than 5,College,None or 1,Good
+A00001240,26,High,Less than 5,High school,None or 1,Good
+A00001241,31,High,Less than 5,High school,None or 1,Good
+A00001242,34,High,5 or more,High school,More than 2,Good
+A00001243,28,High,Less than 5,High school,None or 1,Good
+A00001244,36,Medium,Less than 5,College,None or 1,Good
+A00001245,53,High,5 or more,High school,None or 1,Good
+A00001246,43,,Less than 5,College,None or 1,Good
+A00001247,39,High,5 or more,High school,More than 2,Good
+A00001248,29,Medium,Less than 5,College,None or 1,Good
+A00001249,47,High,Less than 5,High school,None or 1,Good
+A00001250,32,Low,5 or more,High school,None or 1,Good
+A00001251,26,Low,Less than 5,College,None or 1,Good
+A00001252,46,High,5 or more,High school,More than 2,Good
+A00001253,41,Medium,5 or more,College,More than 2,Good
+A00001254,46,High,5 or more,College,More than 2,Good
+A00001255,26,High,5 or more,High school,More than 2,Good
+A00001256,57,High,5 or more,High school,More than 2,Good
+A00001257,52,Medium,Less than 5,College,None or 1,Good
+A00001258,43,Low,5 or more,College,More than 2,Good
+A00001259,46,High,Less than 5,College,None or 1,Good
+A00001260,23,High,Less than 5,High school,None or 1,Good
+A00001261,24,High,Less than 5,College,None or 1,Good
+A00001262,25,High,Less than 5,High school,None or 1,Good
+A00001263,35,Medium,Less than 5,High school,None or 1,Good
+A00001264,41,Low,5 or more,College,More than 2,Good
+A00001265,44,High,Less than 5,High school,None or 1,Good
+A00001266,41,Medium,5 or more,High school,More than 2,Good
+A00001267,34,High,Less than 5,High school,More than 2,Good
+A00001268,45,Low,Less than 5,High school,None or 1,Good
+A00001269,36,High,5 or more,High school,More than 2,Good
+A00001270,20,Medium,Less than 5,College,None or 1,Good
+A00001271,43,High,5 or more,High school,More than 2,Good
+A00001272,30,Medium,5 or more,College,More than 2,Good
+A00001273,21,Low,Less than 5,College,None or 1,Good
+A00001274,47,Medium,Less than 5,High school,None or 1,Good
+A00001275,28,Medium,Less than 5,College,More than 2,Good
+A00001276,46,Low,Less than 5,High school,None or 1,Good
+A00001277,43,High,Less than 5,College,None or 1,Good
+A00001278,33,Medium,5 or more,High school,More than 2,Good
+A00001279,25,High,Less than 5,High school,None or 1,Good
+A00001280,33,High,5 or more,High school,More than 2,Good
+A00001281,35,Medium,Less than 5,High school,More than 2,Good
+A00001282,51,High,5 or more,High school,More than 2,Good
+A00001283,35,High,5 or more,College,More than 2,Good
+A00001284,24,Medium,Less than 5,High school,More than 2,Good
+A00001285,47,High,5 or more,College,More than 2,Good
+A00001286,29,High,5 or more,High school,More than 2,Good
+A00001287,39,High,5 or more,High school,More than 2,Good
+A00001288,37,High,5 or more,High school,None or 1,Good
+A00001289,26,Medium,Less than 5,High school,None or 1,Good
+A00001290,39,Low,Less than 5,High school,None or 1,Good
+A00001291,40,High,5 or more,High school,More than 2,Good
+A00001292,33,Medium,Less than 5,High school,More than 2,Good
+A00001293,44,High,Less than 5,College,None or 1,Good
+A00001294,46,Medium,5 or more,High school,None or 1,Good
+A00001295,47,High,5 or more,College,More than 2,Good
+A00001296,48,High,5 or more,High school,More than 2,Good
+A00001297,32,Medium,Less than 5,College,More than 2,Good
+A00001298,32,High,Less than 5,College,More than 2,Good
+A00001299,39,High,5 or more,College,More than 2,Good
+A00001300,44,High,Less than 5,High school,None or 1,Good
+A00001301,30,Medium,Less than 5,College,None or 1,Good
+A00001302,35,Medium,Less than 5,High school,None or 1,Good
+A00001303,34,High,5 or more,High school,More than 2,Good
+A00001304,41,Medium,Less than 5,College,None or 1,Good
+A00001305,37,High,5 or more,High school,More than 2,Good
+A00001306,34,Medium,5 or more,College,None or 1,Good
+A00001307,29,Medium,Less than 5,College,More than 2,Good
+A00001308,45,High,5 or more,College,More than 2,Good
+A00001309,27,High,5 or more,High school,More than 2,Good
+A00001310,49,High,5 or more,College,More than 2,Good
+A00001311,33,Medium,Less than 5,College,More than 2,Good
+A00001312,33,High,Less than 5,High school,None or 1,Good
+A00001313,24,Medium,5 or more,High school,More than 2,Good
+A00001314,39,High,5 or more,High school,More than 2,Good
+A00001315,49,High,5 or more,College,More than 2,Good
+A00001316,45,Medium,5 or more,College,More than 2,Good
+A00001317,45,Medium,Less than 5,College,None or 1,Good
+A00001318,49,Medium,5 or more,High school,More than 2,Good
+A00001319,31,Medium,Less than 5,College,None or 1,Good
+A00001320,31,Medium,5 or more,High school,None or 1,Good
+A00001321,46,High,5 or more,High school,More than 2,Good
+A00001322,42,Low,Less than 5,High school,None or 1,Good
+A00001323,30,High,5 or more,College,More than 2,Good
+A00001324,40,Medium,5 or more,College,More than 2,Good
+A00001325,28,Medium,Less than 5,High school,None or 1,Good
+A00001326,49,High,5 or more,High school,More than 2,Good
+A00001327,36,High,5 or more,High school,None or 1,Good
+A00001328,41,Medium,Less than 5,College,None or 1,Good
+A00001329,36,Medium,5 or more,College,More than 2,Good
+A00001330,48,High,Less than 5,College,None or 1,Good
+A00001331,49,Medium,5 or more,College,More than 2,Good
+A00001332,48,Medium,5 or more,College,More than 2,Good
+A00001333,47,Medium,Less than 5,College,None or 1,Good
+A00001334,41,High,5 or more,High school,None or 1,Good
+A00001335,49,High,5 or more,College,More than 2,Good
+A00001336,24,Medium,5 or more,High school,More than 2,Good
+A00001337,31,High,Less than 5,College,None or 1,Good
+A00001338,41,High,Less than 5,College,None or 1,Good
+A00001339,45,Medium,5 or more,High school,More than 2,Good
+A00001340,45,Medium,Less than 5,High school,More than 2,Good
+A00001341,36,Medium,5 or more,College,More than 2,Good
+A00001342,30,Low,Less than 5,College,None or 1,Good
+A00001343,48,High,5 or more,High school,More than 2,Good
+A00001344,28,High,Less than 5,High school,None or 1,Good
+A00001345,34,Medium,5 or more,High school,More than 2,Good
+A00001346,38,High,5 or more,High school,None or 1,Good
+A00001347,36,Medium,Less than 5,College,None or 1,Good
+A00001348,31,Medium,5 or more,High school,More than 2,Good
+A00001349,44,High,5 or more,High school,More than 2,Good
+A00001350,27,Medium,Less than 5,College,None or 1,Good
+A00001351,39,Medium,5 or more,College,More than 2,Good
+A00001352,39,High,Less than 5,College,More than 2,Good
+A00001353,51,Medium,5 or more,High school,More than 2,Good
+A00001354,39,High,Less than 5,College,None or 1,Good
+A00001355,44,Medium,Less than 5,College,None or 1,Good
+A00001356,22,High,Less than 5,College,None or 1,Good
+A00001357,31,High,5 or more,High school,None or 1,Good
+A00001358,32,High,5 or more,High school,More than 2,Good
+A00001359,29,High,5 or more,College,More than 2,Good
+A00001360,22,Low,Less than 5,College,None or 1,Good
+A00001361,25,Medium,Less than 5,College,None or 1,Good
+A00001362,50,Medium,Less than 5,High school,None or 1,Good
+A00001363,36,Medium,5 or more,College,More than 2,Good
+A00001364,50,Medium,Less than 5,High school,None or 1,Good
+A00001365,45,High,5 or more,College,More than 2,Good
+A00001366,27,High,5 or more,College,More than 2,Good
+A00001367,28,High,Less than 5,College,None or 1,Good
+A00001368,25,High,5 or more,College,More than 2,Good
+A00001369,48,High,5 or more,High school,More than 2,Good
+A00001370,43,High,5 or more,College,More than 2,Good
+A00001371,39,Medium,Less than 5,College,None or 1,Good
+A00001372,36,High,5 or more,High school,More than 2,Good
+A00001373,41,High,5 or more,High school,More than 2,Good
+A00001374,37,High,Less than 5,High school,None or 1,Good
+A00001375,41,High,Less than 5,College,None or 1,Good
+A00001376,35,Medium,5 or more,College,None or 1,Good
+A00001377,35,Medium,Less than 5,College,None or 1,Good
+A00001378,25,Medium,5 or more,High school,More than 2,Good
+A00001379,45,High,5 or more,High school,More than 2,Good
+A00001380,25,High,5 or more,High school,More than 2,Good
+A00001381,45,High,Less than 5,College,None or 1,Good
+A00001382,39,High,5 or more,High school,More than 2,Good
+A00001383,25,Medium,Less than 5,High school,None or 1,Good
+A00001384,34,High,Less than 5,College,More than 2,Good
+A00001385,43,Medium,5 or more,College,More than 2,Good
+A00001386,27,High,5 or more,High school,More than 2,Good
+A00001387,48,Medium,5 or more,High school,More than 2,Good
+A00001388,38,High,5 or more,High school,More than 2,Good
+A00001389,31,High,Less than 5,High school,None or 1,Good
+A00001390,44,Medium,5 or more,College,More than 2,Good
+A00001391,44,Medium,5 or more,College,More than 2,Good
+A00001392,38,Medium,Less than 5,College,None or 1,Good
+A00001393,46,Low,Less than 5,College,None or 1,Good
+A00001394,38,High,Less than 5,College,None or 1,Good
+A00001395,36,Medium,5 or more,College,More than 2,Good
+A00001396,28,Medium,Less than 5,High school,None or 1,Good
+A00001397,21,Medium,5 or more,College,More than 2,Good
+A00001398,35,High,5 or more,High school,More than 2,Good
+A00001399,42,Low,5 or more,College,None or 1,Good
+A00001400,41,Medium,5 or more,College,More than 2,Good
+A00001401,48,Medium,5 or more,College,None or 1,Good
+A00001402,38,Medium,5 or more,College,More than 2,Good
+A00001403,40,High,5 or more,High school,More than 2,Good
+A00001404,40,Medium,5 or more,High school,None or 1,Good
+A00001405,50,Medium,Less than 5,College,None or 1,Good
+A00001406,32,Medium,5 or more,College,None or 1,Good
+A00001407,23,Medium,Less than 5,College,More than 2,Good
+A00001408,42,High,5 or more,College,More than 2,Good
+A00001409,26,Medium,5 or more,High school,More than 2,Good
+A00001410,48,High,5 or more,College,None or 1,Good
+A00001411,41,Medium,5 or more,High school,More than 2,Good
+A00001412,35,Medium,5 or more,College,More than 2,Good
+A00001413,43,Medium,Less than 5,College,None or 1,Good
+A00001414,30,Medium,Less than 5,College,None or 1,Good
+A00001415,22,High,5 or more,High school,More than 2,Good
+A00001416,30,High,5 or more,High school,More than 2,Good
+A00001417,44,Low,5 or more,College,More than 2,Good
+A00001418,39,Medium,Less than 5,College,None or 1,Good
+A00001419,29,Medium,5 or more,High school,More than 2,Good
+A00001420,51,Medium,5 or more,High school,More than 2,Good
+A00001421,38,High,Less than 5,College,None or 1,Good
+A00001422,42,High,Less than 5,College,None or 1,Good
+A00001423,33,High,Less than 5,College,None or 1,Good
+A00001424,35,High,Less than 5,High school,None or 1,Good
+A00001425,27,Low,Less than 5,High school,None or 1,Good
+A00001426,33,Medium,Less than 5,College,None or 1,Good
+A00001427,32,High,Less than 5,College,None or 1,Good
+A00001428,46,High,5 or more,College,More than 2,Good
+A00001429,35,Medium,5 or more,High school,None or 1,Good
+A00001430,48,High,Less than 5,High school,None or 1,Good
+A00001431,45,Medium,5 or more,College,More than 2,Good
+A00001432,26,Medium,Less than 5,College,None or 1,Good
+A00001433,27,High,Less than 5,College,None or 1,Good
+A00001434,28,High,5 or more,High school,More than 2,Good
+A00001435,39,Medium,5 or more,College,More than 2,Good
+A00001436,30,High,5 or more,High school,More than 2,Good
+A00001437,36,High,5 or more,College,More than 2,Good
+A00001438,50,High,5 or more,High school,More than 2,Good
+A00001439,38,Medium,Less than 5,High school,None or 1,Good
+A00001440,33,High,5 or more,College,More than 2,Good
+A00001441,47,High,5 or more,College,More than 2,Good
+A00001442,33,High,Less than 5,College,None or 1,Good
+A00001443,47,High,5 or more,College,More than 2,Good
+A00001444,23,Low,5 or more,College,More than 2,Good
+A00001445,32,Low,Less than 5,College,None or 1,Good
+A00001446,35,Medium,5 or more,High school,More than 2,Good
+A00001447,47,Low,Less than 5,High school,None or 1,Good
+A00001448,26,High,5 or more,College,More than 2,Good
+A00001449,31,Medium,5 or more,College,More than 2,Good
+A00001450,28,Medium,5 or more,High school,None or 1,Good
+A00001451,34,Medium,Less than 5,College,None or 1,Good
+A00001452,48,Medium,5 or more,College,More than 2,Good
+A00001453,33,High,5 or more,College,More than 2,Good
+A00001454,28,Medium,5 or more,High school,More than 2,Good
+A00001455,33,Medium,5 or more,College,More than 2,Good
+A00001456,40,Medium,Less than 5,College,None or 1,Good
+A00001457,28,High,Less than 5,High school,None or 1,Good
+A00001458,33,Medium,Less than 5,High school,More than 2,Good
+A00001459,56,High,Less than 5,High school,More than 2,Good
+A00001460,28,Medium,5 or more,High school,More than 2,Good
+A00001461,50,Medium,5 or more,College,More than 2,Good
+A00001462,28,Medium,5 or more,High school,More than 2,Good
+A00001463,22,High,5 or more,High school,More than 2,Good
+A00001464,22,High,5 or more,College,More than 2,Good
+A00001465,27,High,Less than 5,High school,None or 1,Good
+A00001466,35,Medium,Less than 5,High school,None or 1,Good
+A00001467,33,Medium,5 or more,High school,More than 2,Good
+A00001468,31,High,5 or more,College,More than 2,Good
+A00001469,46,High,Less than 5,High school,None or 1,Good
+A00001470,31,Medium,5 or more,College,More than 2,Good
+A00001471,43,High,5 or more,College,More than 2,Good
+A00001472,37,High,Less than 5,College,None or 1,Good
+A00001473,27,Medium,5 or more,College,None or 1,Good
+A00001474,22,Low,Less than 5,High school,None or 1,Good
+A00001475,50,High,5 or more,High school,More than 2,Good
+A00001476,29,Medium,5 or more,High school,More than 2,Good
+A00001477,22,High,Less than 5,High school,None or 1,Good
+A00001478,39,Medium,5 or more,College,More than 2,Good
+A00001479,21,Medium,5 or more,College,More than 2,Good
+A00001480,26,High,5 or more,High school,None or 1,Good
+A00001481,33,High,5 or more,College,More than 2,Good
+A00001482,46,Medium,Less than 5,College,None or 1,Good
+A00001483,54,Medium,5 or more,College,More than 2,Good
+A00001484,30,Medium,5 or more,High school,More than 2,Good
+A00001485,42,High,5 or more,High school,More than 2,Good
+A00001486,31,Medium,Less than 5,High school,None or 1,Good
+A00001487,39,Medium,5 or more,High school,More than 2,Good
+A00001488,20,High,5 or more,College,More than 2,Good
+A00001489,60,High,5 or more,College,More than 2,Good
+A00001490,29,High,Less than 5,High school,None or 1,Good
+A00001491,34,High,5 or more,High school,More than 2,Good
+A00001492,22,Medium,5 or more,College,More than 2,Good
+A00001493,53,High,Less than 5,High school,None or 1,Good
+A00001494,49,High,Less than 5,College,None or 1,Good
+A00001495,42,Medium,Less than 5,College,None or 1,Good
+A00001496,36,Medium,Less than 5,College,None or 1,Good
+A00001497,33,Medium,Less than 5,College,None or 1,Good
+A00001498,26,Medium,5 or more,High school,More than 2,Good
+A00001499,21,Medium,5 or more,High school,More than 2,Good
+A00001500,46,Medium,5 or more,High school,More than 2,Good
+A00001501,54,High,5 or more,High school,More than 2,Good
+A00001502,44,Medium,5 or more,College,None or 1,Good
+A00001503,32,High,Less than 5,College,More than 2,Good
+A00001504,34,Medium,Less than 5,High school,More than 2,Good
+A00001505,27,Medium,Less than 5,High school,None or 1,Good
+A00001506,39,Medium,Less than 5,College,None or 1,Good
+A00001507,57,High,5 or more,College,More than 2,Good
+A00001508,29,,5 or more,College,More than 2,Good
+A00001509,50,Medium,Less than 5,College,None or 1,Good
+A00001510,57,High,5 or more,High school,None or 1,Good
+A00001511,47,Low,5 or more,High school,More than 2,Good
+A00001512,62,Medium,5 or more,High school,None or 1,Good
+A00001513,40,Medium,5 or more,College,More than 2,Good
+A00001514,43,High,5 or more,College,More than 2,Good
+A00001515,36,Medium,5 or more,College,None or 1,Good
+A00001516,25,High,Less than 5,High school,None or 1,Good
+A00001517,40,Medium,5 or more,College,More than 2,Good
+A00001518,39,High,Less than 5,College,None or 1,Good
+A00001519,47,High,Less than 5,High school,None or 1,Good
+A00001520,26,Medium,5 or more,College,More than 2,Good
+A00001521,40,Medium,5 or more,High school,More than 2,Good
+A00001522,38,Medium,5 or more,High school,More than 2,Good
+A00001523,38,Medium,Less than 5,High school,None or 1,Good
+A00001524,36,Medium,5 or more,College,More than 2,Good
+A00001525,45,High,5 or more,College,More than 2,Good
+A00001526,47,High,5 or more,High school,More than 2,Good
+A00001527,28,High,Less than 5,College,None or 1,Good
+A00001528,43,High,Less than 5,College,None or 1,Good
+A00001529,44,Medium,5 or more,High school,More than 2,Good
+A00001530,38,High,5 or more,College,More than 2,Good
+A00001531,38,High,Less than 5,High school,None or 1,Good
+A00001532,27,High,5 or more,High school,More than 2,Good
+A00001533,26,High,5 or more,College,More than 2,Good
+A00001534,39,High,Less than 5,College,None or 1,Good
+A00001535,32,High,5 or more,College,More than 2,Good
+A00001536,34,High,Less than 5,College,None or 1,Good
+A00001537,34,High,Less than 5,College,None or 1,Good
+A00001538,32,High,Less than 5,College,None or 1,Good
+A00001539,30,High,5 or more,College,More than 2,Good
+A00001540,24,High,5 or more,High school,More than 2,Good
+A00001541,25,Medium,Less than 5,High school,More than 2,Good
+A00001542,38,High,5 or more,College,More than 2,Good
+A00001543,41,High,5 or more,High school,More than 2,Good
+A00001544,38,Medium,Less than 5,College,None or 1,Good
+A00001545,42,Medium,Less than 5,High school,None or 1,Good
+A00001546,28,Medium,Less than 5,High school,None or 1,Good
+A00001547,33,High,Less than 5,College,More than 2,Good
+A00001548,41,High,Less than 5,College,None or 1,Good
+A00001549,39,High,5 or more,High school,More than 2,Good
+A00001550,42,High,5 or more,College,None or 1,Good
+A00001551,46,High,5 or more,College,More than 2,Good
+A00001552,31,High,Less than 5,High school,None or 1,Good
+A00001553,41,High,5 or more,High school,More than 2,Good
+A00001554,24,Medium,Less than 5,High school,None or 1,Good
+A00001555,30,Medium,5 or more,College,More than 2,Good
+A00001556,27,Medium,Less than 5,High school,More than 2,Good
+A00001557,21,Medium,5 or more,College,More than 2,Good
+A00001558,34,Medium,Less than 5,High school,None or 1,Good
+A00001559,39,High,Less than 5,High school,None or 1,Good
+A00001560,29,High,Less than 5,High school,None or 1,Good
+A00001561,29,High,Less than 5,College,None or 1,Good
+A00001562,40,Medium,5 or more,High school,More than 2,Good
+A00001563,35,Medium,Less than 5,College,None or 1,Good
+A00001564,31,Medium,5 or more,High school,More than 2,Good
+A00001565,40,Medium,Less than 5,College,More than 2,Good
+A00001566,28,High,Less than 5,College,None or 1,Good
+A00001567,48,Medium,5 or more,College,More than 2,Good
+A00001568,38,High,Less than 5,College,More than 2,Good
+A00001569,31,Medium,Less than 5,College,None or 1,Good
+A00001570,25,High,Less than 5,High school,None or 1,Good
+A00001571,28,Medium,Less than 5,High school,None or 1,Good
+A00001572,35,Medium,5 or more,College,More than 2,Good
+A00001573,35,High,Less than 5,High school,None or 1,Good
+A00001574,40,Medium,Less than 5,College,None or 1,Good
+A00001575,32,High,5 or more,High school,More than 2,Good
+A00001576,36,Medium,Less than 5,High school,None or 1,Good
+A00001577,38,High,Less than 5,High school,None or 1,Good
+A00001578,46,Medium,Less than 5,College,None or 1,Good
+A00001579,42,Medium,Less than 5,High school,None or 1,Good
+A00001580,37,Medium,5 or more,College,More than 2,Good
+A00001581,37,Medium,5 or more,High school,None or 1,Good
+A00001582,50,Medium,Less than 5,High school,None or 1,Good
+A00001583,33,Medium,5 or more,College,More than 2,Good
+A00001584,26,Medium,5 or more,High school,More than 2,Good
+A00001585,30,Low,5 or more,College,None or 1,Good
+A00001586,32,High,Less than 5,College,None or 1,Good
+A00001587,33,Medium,Less than 5,High school,None or 1,Good
+A00001588,42,Medium,Less than 5,College,None or 1,Good
+A00001589,33,Medium,5 or more,College,More than 2,Good
+A00001590,25,High,5 or more,High school,More than 2,Good
+A00001591,36,Medium,5 or more,College,More than 2,Good
+A00001592,24,Medium,5 or more,High school,More than 2,Good
+A00001593,34,Medium,5 or more,College,More than 2,Good
+A00001594,45,Medium,5 or more,High school,None or 1,Good
+A00001595,,High,Less than 5,College,None or 1,Good
+A00001596,31,High,5 or more,High school,More than 2,Good
+A00001597,33,Medium,5 or more,High school,More than 2,Good
+A00001598,42,High,5 or more,High school,None or 1,Good
+A00001599,47,High,Less than 5,College,None or 1,Good
+A00001600,40,High,5 or more,College,More than 2,Good
+A00001601,39,Medium,Less than 5,High school,None or 1,Good
+A00001602,42,Medium,5 or more,College,More than 2,Good
+A00001603,32,High,Less than 5,High school,None or 1,Good
+A00001604,34,Medium,5 or more,College,More than 2,Good
+A00001605,39,High,5 or more,College,More than 2,Good
+A00001606,36,Medium,Less than 5,College,None or 1,Good
+A00001607,46,High,5 or more,College,More than 2,Good
+A00001608,29,High,Less than 5,College,None or 1,Good
+A00001609,40,High,5 or more,High school,More than 2,Good
+A00001610,32,High,5 or more,High school,More than 2,Good
+A00001611,26,Medium,Less than 5,High school,None or 1,Good
+A00001612,21,High,Less than 5,High school,None or 1,Good
+A00001613,44,High,Less than 5,High school,None or 1,Good
+A00001614,31,Medium,Less than 5,College,None or 1,Good
+A00001615,27,High,5 or more,College,More than 2,Good
+A00001616,45,Medium,Less than 5,High school,None or 1,Good
+A00001617,38,High,Less than 5,High school,None or 1,Good
+A00001618,48,Medium,5 or more,High school,More than 2,Good
+A00001619,30,High,5 or more,High school,More than 2,Good
+A00001620,42,Medium,Less than 5,High school,None or 1,Good
+A00001621,30,High,Less than 5,High school,None or 1,Good
+A00001622,46,Medium,5 or more,College,More than 2,Good
+A00001623,37,High,5 or more,College,More than 2,Good
+A00001624,33,High,Less than 5,College,More than 2,Good
+A00001625,30,High,5 or more,College,More than 2,Good
+A00001626,42,Medium,5 or more,High school,None or 1,Good
+A00001627,37,Medium,Less than 5,High school,None or 1,Good
+A00001628,28,Medium,5 or more,High school,None or 1,Good
+A00001629,24,Medium,5 or more,High school,More than 2,Good
+A00001630,32,High,Less than 5,High school,None or 1,Good
+A00001631,36,Medium,5 or more,College,More than 2,Good
+A00001632,24,Medium,Less than 5,High school,More than 2,Good
+A00001633,39,High,5 or more,High school,More than 2,Good
+A00001634,37,Medium,Less than 5,High school,None or 1,Good
+A00001635,47,Medium,Less than 5,College,More than 2,Good
+A00001636,34,High,Less than 5,College,None or 1,Good
+A00001637,27,Medium,5 or more,College,More than 2,Good
+A00001638,39,Low,Less than 5,College,None or 1,Good
+A00001639,33,Medium,Less than 5,College,None or 1,Good
+A00001640,23,High,5 or more,College,None or 1,Good
+A00001641,42,Medium,5 or more,High school,More than 2,Good
+A00001642,53,High,5 or more,High school,More than 2,Good
+A00001643,46,Low,Less than 5,College,None or 1,Good
+A00001644,23,High,Less than 5,High school,None or 1,Good
+A00001645,44,Medium,Less than 5,High school,None or 1,Good
+A00001646,24,High,5 or more,College,None or 1,Good
+A00001647,43,High,5 or more,High school,More than 2,Good
+A00001648,54,Low,Less than 5,College,None or 1,Good
+A00001649,43,High,Less than 5,High school,None or 1,Good
+A00001650,35,Low,Less than 5,College,None or 1,Good
+A00001651,42,Low,5 or more,College,More than 2,Good
+A00001652,42,High,5 or more,College,More than 2,Good
+A00001653,35,Medium,5 or more,High school,More than 2,Good
+A00001654,26,High,5 or more,College,None or 1,Good
+A00001655,34,Medium,Less than 5,High school,None or 1,Good
+A00001656,32,High,Less than 5,High school,None or 1,Good
+A00001657,52,Medium,5 or more,College,More than 2,Good
+A00001658,38,Medium,Less than 5,High school,None or 1,Good
+A00001659,34,High,5 or more,High school,More than 2,Good
+A00001660,48,High,5 or more,College,None or 1,Good
+A00001661,28,Low,5 or more,College,More than 2,Good
+A00001662,28,High,5 or more,College,More than 2,Good
+A00001663,26,Medium,Less than 5,High school,None or 1,Good
+A00001664,44,High,Less than 5,High school,None or 1,Good
+A00001665,29,Medium,5 or more,High school,More than 2,Good
+A00001666,32,High,Less than 5,High school,None or 1,Good
+A00001667,24,Medium,5 or more,High school,More than 2,Good
+A00001668,29,High,Less than 5,College,None or 1,Good
+A00001669,38,High,Less than 5,High school,None or 1,Good
+A00001670,31,High,Less than 5,College,None or 1,Good
+A00001671,53,Medium,5 or more,High school,More than 2,Good
+A00001672,25,Medium,5 or more,High school,More than 2,Good
+A00001673,26,High,5 or more,High school,None or 1,Good
+A00001674,24,High,5 or more,College,More than 2,Good
+A00001675,26,High,5 or more,High school,More than 2,Good
+A00001676,24,Medium,Less than 5,College,None or 1,Good
+A00001677,32,Medium,Less than 5,College,None or 1,Good
+A00001678,40,High,5 or more,College,More than 2,Good
+A00001679,23,High,Less than 5,College,None or 1,Good
+A00001680,27,High,Less than 5,High school,None or 1,Good
+A00001681,39,High,Less than 5,High school,None or 1,Good
+A00001682,32,Medium,5 or more,College,More than 2,Good
+A00001683,42,Medium,Less than 5,High school,None or 1,Good
+A00001684,42,Medium,Less than 5,High school,None or 1,Good
+A00001685,31,Medium,5 or more,High school,More than 2,Good
+A00001686,36,High,Less than 5,High school,None or 1,Good
+A00001687,43,High,5 or more,College,None or 1,Good
+A00001688,53,High,Less than 5,High school,None or 1,Good
+A00001689,49,Medium,5 or more,College,More than 2,Good
+A00001690,33,Medium,5 or more,High school,More than 2,Good
+A00001691,27,Medium,Less than 5,College,None or 1,Good
+A00001692,37,High,5 or more,High school,More than 2,Good
+A00001693,29,Medium,Less than 5,High school,None or 1,Good
+A00001694,61,High,Less than 5,High school,None or 1,Good
+A00001695,45,Medium,5 or more,College,More than 2,Good
+A00001696,41,High,Less than 5,College,None or 1,Good
+A00001697,31,Medium,Less than 5,College,None or 1,Good
+A00001698,43,Medium,5 or more,High school,More than 2,Good
+A00001699,41,High,Less than 5,High school,None or 1,Good
+A00001700,38,High,5 or more,High school,More than 2,Good
+A00001701,29,Low,5 or more,College,More than 2,Good
+A00001702,35,Medium,Less than 5,College,None or 1,Good
+A00001703,30,Medium,Less than 5,High school,None or 1,Good
+A00001704,36,Medium,5 or more,College,More than 2,Good
+A00001705,44,Medium,5 or more,High school,More than 2,Good
+A00001706,31,High,Less than 5,College,None or 1,Good
+A00001707,28,,5 or more,High school,More than 2,Good
+A00001708,23,High,Less than 5,High school,None or 1,Good
+A00001709,43,Medium,5 or more,High school,None or 1,Good
+A00001710,35,Medium,5 or more,High school,More than 2,Good
+A00001711,50,High,Less than 5,High school,None or 1,Good
+A00001712,41,Medium,Less than 5,High school,None or 1,Good
+A00001713,44,Medium,5 or more,High school,More than 2,Good
+A00001714,40,High,5 or more,High school,More than 2,Good
+A00001715,30,Medium,5 or more,High school,None or 1,Good
+A00001716,43,High,Less than 5,College,None or 1,Good
+A00001717,39,Medium,5 or more,High school,More than 2,Good
+A00001718,37,Low,5 or more,College,More than 2,Good
+A00001719,41,High,5 or more,High school,More than 2,Good
+A00001720,34,Medium,Less than 5,College,None or 1,Good
+A00001721,43,High,5 or more,College,More than 2,Good
+A00001722,40,High,5 or more,College,More than 2,Good
+A00001723,50,Medium,5 or more,College,More than 2,Good
+A00001724,41,Medium,Less than 5,College,None or 1,Good
+A00001725,45,High,Less than 5,High school,None or 1,Good
+A00001726,22,High,Less than 5,High school,None or 1,Good
+A00001727,38,High,Less than 5,College,None or 1,Good
+A00001728,42,Medium,5 or more,High school,More than 2,Good
+A00001729,37,Low,5 or more,High school,More than 2,Good
+A00001730,51,High,5 or more,High school,More than 2,Good
+A00001731,36,High,5 or more,High school,More than 2,Good
+A00001732,44,Medium,Less than 5,High school,None or 1,Good
+A00001733,28,Medium,5 or more,College,More than 2,Good
+A00001734,34,High,Less than 5,High school,None or 1,Good
+A00001735,59,High,5 or more,High school,More than 2,Good
+A00001736,33,Medium,Less than 5,College,None or 1,Good
+A00001737,37,Medium,Less than 5,College,None or 1,Good
+A00001738,37,High,5 or more,High school,More than 2,Good
+A00001739,34,High,5 or more,High school,More than 2,Good
+A00001740,47,Low,5 or more,High school,More than 2,Good
+A00001741,33,Low,5 or more,High school,More than 2,Good
+A00001742,33,Medium,Less than 5,High school,More than 2,Good
+A00001743,28,High,5 or more,College,More than 2,Good
+A00001744,27,High,5 or more,High school,More than 2,Good
+A00001745,34,High,Less than 5,High school,None or 1,Good
+A00001746,50,Low,Less than 5,High school,None or 1,Good
+A00001747,27,Low,5 or more,College,More than 2,Good
+A00001748,30,High,5 or more,College,More than 2,Good
+A00001749,27,Medium,5 or more,High school,More than 2,Good
+A00001750,45,Medium,Less than 5,College,More than 2,Good
+A00001751,36,Low,5 or more,College,More than 2,Good
+A00001752,28,Medium,Less than 5,College,None or 1,Good
+A00001753,23,Medium,Less than 5,High school,None or 1,Good
+A00001754,45,High,5 or more,College,None or 1,Good
+A00001755,33,Medium,5 or more,College,More than 2,Good
+A00001756,30,High,Less than 5,College,None or 1,Good
+A00001757,34,High,5 or more,College,More than 2,Good
+A00001758,41,High,Less than 5,High school,More than 2,Good
+A00001759,23,High,5 or more,College,More than 2,Good
+A00001760,24,Medium,Less than 5,College,None or 1,Good
+A00001761,25,High,5 or more,College,More than 2,Good
+A00001762,20,Low,Less than 5,High school,None or 1,Good
+A00001763,45,High,5 or more,College,None or 1,Good
+A00001764,29,High,5 or more,College,More than 2,Good
+A00001765,28,Medium,5 or more,College,More than 2,Good
+A00001766,34,High,5 or more,College,More than 2,Good
+A00001767,41,High,5 or more,High school,More than 2,Good
+A00001768,43,Medium,5 or more,College,More than 2,Good
+A00001769,27,Medium,Less than 5,College,None or 1,Good
+A00001770,45,High,Less than 5,College,None or 1,Good
+A00001771,48,Low,Less than 5,High school,None or 1,Good
+A00001772,43,Medium,Less than 5,High school,None or 1,Good
+A00001773,36,Medium,Less than 5,College,None or 1,Good
+A00001774,29,High,5 or more,High school,More than 2,Good
+A00001775,24,High,Less than 5,High school,None or 1,Good
+A00001776,39,Medium,5 or more,High school,More than 2,Good
+A00001777,49,High,Less than 5,College,None or 1,Good
+A00001778,48,Medium,5 or more,College,More than 2,Good
+A00001779,42,Medium,Less than 5,High school,None or 1,Good
+A00001780,42,High,5 or more,College,More than 2,Good
+A00001781,29,High,5 or more,College,More than 2,Good
+A00001782,29,High,5 or more,College,More than 2,Good
+A00001783,46,Medium,Less than 5,High school,None or 1,Good
+A00001784,31,High,5 or more,College,More than 2,Good
+A00001785,28,High,5 or more,College,More than 2,Good
+A00001786,33,High,5 or more,College,More than 2,Good
+A00001787,41,High,5 or more,College,More than 2,Good
+A00001788,25,Medium,Less than 5,College,None or 1,Good
+A00001789,35,High,Less than 5,High school,None or 1,Good
+A00001790,31,Medium,5 or more,College,More than 2,Good
+A00001791,43,High,Less than 5,College,None or 1,Good
+A00001792,39,Medium,Less than 5,College,None or 1,Good
+A00001793,22,High,Less than 5,High school,None or 1,Good
+A00001794,29,Medium,5 or more,College,More than 2,Good
+A00001795,44,High,Less than 5,High school,More than 2,Good
+A00001796,26,High,5 or more,High school,More than 2,Good
+A00001797,40,Medium,Less than 5,High school,None or 1,Good
+A00001798,31,High,5 or more,High school,More than 2,Good
+A00001799,43,Medium,Less than 5,College,None or 1,Good
+A00001800,36,Medium,5 or more,College,More than 2,Good
+A00001801,30,Medium,5 or more,College,None or 1,Good
+A00001802,23,High,5 or more,High school,More than 2,Good
+A00001803,37,Medium,5 or more,College,More than 2,Good
+A00001804,34,Medium,Less than 5,High school,None or 1,Good
+A00001805,45,Medium,Less than 5,High school,None or 1,Good
+A00001806,40,Medium,5 or more,High school,More than 2,Good
+A00001807,35,Medium,Less than 5,High school,None or 1,Good
+A00001808,43,High,Less than 5,High school,None or 1,Good
+A00001809,58,Medium,5 or more,College,More than 2,Good
+A00001810,35,Medium,5 or more,High school,More than 2,Good
+A00001811,32,Medium,5 or more,College,More than 2,Good
+A00001812,37,High,5 or more,College,More than 2,Good
+A00001813,43,High,5 or more,High school,More than 2,Good
+A00001814,40,High,Less than 5,High school,None or 1,Good
+A00001815,26,High,Less than 5,High school,None or 1,Good
+A00001816,34,Medium,Less than 5,High school,None or 1,Good
+A00001817,49,Medium,5 or more,College,More than 2,Good
+A00001818,50,High,5 or more,College,None or 1,Good
+A00001819,28,High,5 or more,High school,None or 1,Good
+A00001820,46,Medium,5 or more,High school,More than 2,Good
+A00001821,35,High,5 or more,College,More than 2,Good
+A00001822,33,High,Less than 5,College,None or 1,Good
+A00001823,33,Medium,Less than 5,High school,None or 1,Good
+A00001824,24,Medium,Less than 5,College,More than 2,Good
+A00001825,33,High,5 or more,College,More than 2,Good
+A00001826,38,Medium,5 or more,College,More than 2,Good
+A00001827,38,High,Less than 5,College,None or 1,Good
+A00001828,22,High,5 or more,College,More than 2,Good
+A00001829,28,High,Less than 5,College,None or 1,Good
+A00001830,50,Medium,Less than 5,High school,None or 1,Good
+A00001831,23,High,Less than 5,High school,None or 1,Good
+A00001832,43,High,Less than 5,College,More than 2,Good
+A00001833,43,High,Less than 5,College,None or 1,Good
+A00001834,33,High,Less than 5,College,None or 1,Good
+A00001835,55,High,Less than 5,High school,None or 1,Good
+A00001836,21,Medium,Less than 5,High school,None or 1,Good
+A00001837,32,High,Less than 5,College,None or 1,Good
+A00001838,24,High,5 or more,High school,More than 2,Good
+A00001839,29,Low,Less than 5,College,None or 1,Good
+A00001840,22,High,Less than 5,High school,None or 1,Good
+A00001841,27,Medium,Less than 5,High school,None or 1,Good
+A00001842,39,High,5 or more,College,More than 2,Good
+A00001843,28,High,5 or more,High school,More than 2,Good
+A00001844,33,Medium,Less than 5,College,More than 2,Good
+A00001845,49,High,5 or more,College,More than 2,Good
+A00001846,42,High,5 or more,High school,More than 2,Good
+A00001847,35,High,Less than 5,High school,None or 1,Good
+A00001848,45,High,5 or more,College,More than 2,Good
+A00001849,32,Medium,Less than 5,High school,None or 1,Good
+A00001850,42,High,5 or more,High school,More than 2,Good
+A00001851,33,High,Less than 5,High school,None or 1,Good
+A00001852,47,Low,5 or more,College,More than 2,Good
+A00001853,34,Medium,5 or more,College,More than 2,Good
+A00001854,27,Medium,Less than 5,College,None or 1,Good
+A00001855,38,High,Less than 5,High school,None or 1,Good
+A00001856,29,Medium,Less than 5,High school,None or 1,Good
+A00001857,50,Medium,Less than 5,College,None or 1,Good
+A00001858,45,Medium,Less than 5,High school,None or 1,Good
+A00001859,38,High,Less than 5,College,More than 2,Good
+A00001860,52,Medium,Less than 5,High school,None or 1,Good
+A00001861,31,Medium,5 or more,High school,More than 2,Good
+A00001862,32,High,5 or more,College,More than 2,Good
+A00001863,24,High,Less than 5,College,None or 1,Good
+A00001864,29,Medium,Less than 5,College,None or 1,Good
+A00001865,47,High,5 or more,College,More than 2,Good
+A00001866,53,Medium,Less than 5,High school,None or 1,Good
+A00001867,35,Medium,Less than 5,High school,None or 1,Good
+A00001868,39,High,Less than 5,College,None or 1,Good
+A00001869,22,High,Less than 5,High school,None or 1,Good
+A00001870,28,Medium,5 or more,College,More than 2,Good
+A00001871,56,Medium,Less than 5,High school,None or 1,Good
+A00001872,40,High,Less than 5,High school,More than 2,Good
+A00001873,26,High,Less than 5,College,None or 1,Good
+A00001874,41,High,5 or more,College,More than 2,Good
+A00001875,29,High,Less than 5,High school,None or 1,Good
+A00001876,39,High,5 or more,High school,More than 2,Good
+A00001877,30,High,Less than 5,College,None or 1,Good
+A00001878,39,High,5 or more,High school,More than 2,Good
+A00001879,30,Medium,Less than 5,High school,None or 1,Good
+A00001880,54,Medium,5 or more,College,More than 2,Good
+A00001881,46,Medium,Less than 5,High school,None or 1,Good
+A00001882,41,Medium,5 or more,High school,More than 2,Good
+A00001883,45,High,5 or more,High school,More than 2,Good
+A00001884,51,High,5 or more,College,More than 2,Good
+A00001885,40,Medium,Less than 5,High school,None or 1,Good
+A00001886,33,Medium,5 or more,College,More than 2,Good
+A00001887,23,High,Less than 5,High school,None or 1,Good
+A00001888,24,Medium,5 or more,High school,More than 2,Good
+A00001889,33,Medium,Less than 5,College,None or 1,Good
+A00001890,32,Medium,5 or more,High school,More than 2,Good
+A00001891,39,High,Less than 5,High school,None or 1,Good
+A00001892,34,High,Less than 5,College,None or 1,Good
+A00001893,28,High,Less than 5,College,None or 1,Good
+A00001894,37,Medium,Less than 5,High school,None or 1,Good
+A00001895,35,High,5 or more,College,More than 2,Good
+A00001896,52,Medium,Less than 5,High school,None or 1,Good
+A00001897,25,High,Less than 5,College,None or 1,Good
+A00001898,28,Medium,Less than 5,College,None or 1,Good
+A00001899,36,High,5 or more,College,None or 1,Good
+A00001900,40,High,5 or more,College,More than 2,Good
+A00001901,47,High,5 or more,College,More than 2,Good
+A00001902,51,Medium,5 or more,High school,More than 2,Good
+A00001903,36,High,Less than 5,High school,None or 1,Good
+A00001904,32,Medium,5 or more,High school,More than 2,Good
+A00001905,36,Medium,Less than 5,College,None or 1,Good
+A00001906,39,Medium,Less than 5,High school,None or 1,Good
+A00001907,28,High,5 or more,College,More than 2,Good
+A00001908,41,High,Less than 5,High school,None or 1,Good
+A00001909,40,High,Less than 5,High school,None or 1,Good
+A00001910,41,Medium,5 or more,High school,More than 2,Good
+A00001911,36,Medium,Less than 5,College,None or 1,Good
+A00001912,20,Low,Less than 5,College,None or 1,Good
+A00001913,29,Medium,Less than 5,High school,None or 1,Good
+A00001914,26,Medium,Less than 5,High school,None or 1,Good
+A00001915,24,Medium,Less than 5,High school,None or 1,Good
+A00001916,36,High,Less than 5,High school,None or 1,Good
+A00001917,27,High,Less than 5,College,None or 1,Good
+A00001918,50,Medium,5 or more,College,More than 2,Good
+A00001919,48,High,5 or more,High school,None or 1,Good
+A00001920,20,Medium,Less than 5,College,More than 2,Good
+A00001921,38,Low,5 or more,College,More than 2,Good
+A00001922,31,High,Less than 5,High school,None or 1,Good
+A00001923,35,Low,5 or more,High school,More than 2,Good
+A00001924,53,High,5 or more,High school,More than 2,Good
+A00001925,34,Medium,5 or more,College,More than 2,Good
+A00001926,40,High,5 or more,College,None or 1,Good
+A00001927,37,High,Less than 5,College,None or 1,Good
+A00001928,31,Medium,Less than 5,College,More than 2,Good
+A00001929,33,Medium,Less than 5,High school,None or 1,Good
+A00001930,31,High,5 or more,College,None or 1,Good
+A00001931,27,High,5 or more,College,None or 1,Good
+A00001932,40,Medium,Less than 5,College,More than 2,Good
+A00001933,26,Low,5 or more,College,More than 2,Good
+A00001934,37,Medium,Less than 5,College,None or 1,Good
+A00001935,41,Medium,5 or more,College,None or 1,Good
+A00001936,35,Low,Less than 5,High school,None or 1,Good
+A00001937,21,High,5 or more,College,More than 2,Good
+A00001938,35,High,Less than 5,College,None or 1,Good
+A00001939,30,Low,5 or more,College,More than 2,Good
+A00001940,41,High,5 or more,College,More than 2,Good
+A00001941,28,High,5 or more,College,More than 2,Good
+A00001942,39,High,Less than 5,High school,None or 1,Good
+A00001943,29,High,5 or more,High school,More than 2,Good
+A00001944,36,High,5 or more,College,More than 2,Good
+A00001945,38,High,5 or more,High school,More than 2,Good
+A00001946,28,High,Less than 5,High school,None or 1,Good
+A00001947,34,Medium,Less than 5,High school,None or 1,Good
+A00001948,33,High,Less than 5,High school,None or 1,Good
+A00001949,29,Medium,5 or more,High school,More than 2,Good
+A00001950,21,Medium,Less than 5,College,None or 1,Good
+A00001951,32,Medium,Less than 5,High school,None or 1,Good
+A00001952,51,High,Less than 5,College,None or 1,Good
+A00001953,50,High,5 or more,High school,More than 2,Good
+A00001954,46,High,Less than 5,College,None or 1,Good
+A00001955,44,Medium,Less than 5,College,None or 1,Good
+A00001956,41,Medium,5 or more,College,None or 1,Good
+A00001957,39,High,5 or more,High school,More than 2,Good
+A00001958,32,Medium,5 or more,High school,None or 1,Good
+A00001959,28,High,Less than 5,High school,None or 1,Good
+A00001960,46,Medium,5 or more,High school,More than 2,Good
+A00001961,40,High,Less than 5,High school,None or 1,Good
+A00001962,23,Medium,5 or more,College,More than 2,Good
+A00001963,45,Medium,5 or more,High school,More than 2,Good
+A00001964,47,High,5 or more,High school,More than 2,Good
+A00001965,25,High,Less than 5,College,None or 1,Good
+A00001966,53,Medium,Less than 5,College,None or 1,Good
+A00001967,,High,Less than 5,High school,None or 1,Good
+A00001968,41,Low,Less than 5,College,None or 1,Good
+A00001969,48,Low,5 or more,High school,More than 2,Good
+A00001970,21,High,Less than 5,College,None or 1,Good
+A00001971,33,High,Less than 5,College,None or 1,Good
+A00001972,45,Medium,5 or more,High school,More than 2,Good
+A00001973,42,Medium,Less than 5,College,None or 1,Good
+A00001974,30,High,5 or more,High school,More than 2,Good
+A00001975,31,,5 or more,College,More than 2,Good
+A00001976,36,High,5 or more,High school,More than 2,Good
+A00001977,34,Medium,Less than 5,High school,None or 1,Good
+A00001978,24,High,5 or more,High school,More than 2,Good
+A00001979,24,Low,Less than 5,College,None or 1,Good
+A00001980,44,Medium,5 or more,College,More than 2,Good
+A00001981,36,High,5 or more,College,More than 2,Good
+A00001982,38,Medium,Less than 5,High school,None or 1,Good
+A00001983,47,Low,5 or more,High school,None or 1,Good
+A00001984,34,Medium,Less than 5,High school,None or 1,Good
+A00001985,33,Low,Less than 5,High school,None or 1,Good
+A00001986,44,Medium,Less than 5,College,None or 1,Good
+A00001987,34,High,Less than 5,High school,None or 1,Good
+A00001988,36,Low,5 or more,High school,More than 2,Good
+A00001989,30,High,Less than 5,College,None or 1,Good
+A00001990,26,Low,5 or more,High school,More than 2,Good
+A00001991,31,Low,Less than 5,College,None or 1,Good
+A00001992,54,Medium,Less than 5,College,None or 1,Good
+A00001993,44,Medium,Less than 5,High school,None or 1,Good
+A00001994,48,High,5 or more,High school,More than 2,Good
+A00001995,28,Low,5 or more,College,More than 2,Good
+A00001996,36,Medium,5 or more,College,More than 2,Good
+A00001997,,High,Less than 5,College,None or 1,Good
+A00001998,42,Medium,5 or more,High school,More than 2,Good
+A00001999,49,Medium,5 or more,College,More than 2,Good
+A00002000,28,Low,Less than 5,College,None or 1,Good
+A00002001,35,High,5 or more,College,More than 2,Good
+A00002002,37,Medium,Less than 5,High school,None or 1,Good
+A00002003,27,High,5 or more,High school,More than 2,Good
+A00002004,38,Medium,5 or more,High school,None or 1,Good
+A00002005,23,Medium,5 or more,College,More than 2,Good
+A00002006,39,Medium,Less than 5,High school,None or 1,Good
+A00002007,27,High,5 or more,High school,More than 2,Good
+A00002008,30,High,5 or more,College,More than 2,Good
+A00002009,39,Medium,5 or more,High school,More than 2,Good
+A00002010,30,High,5 or more,College,More than 2,Good
+A00002011,41,Medium,Less than 5,High school,None or 1,Good
+A00002012,38,Medium,5 or more,College,None or 1,Good
+A00002013,31,Low,Less than 5,College,None or 1,Good
+A00002014,22,High,Less than 5,College,None or 1,Good
+A00002015,48,High,5 or more,High school,More than 2,Good
+A00002016,40,Medium,5 or more,College,More than 2,Good
+A00002017,43,High,Less than 5,College,None or 1,Good
+A00002018,44,High,5 or more,High school,More than 2,Good
+A00002019,32,Medium,5 or more,College,None or 1,Good
+A00002020,35,Medium,5 or more,College,More than 2,Good
+A00002021,48,High,5 or more,College,More than 2,Good
+A00002022,33,Low,5 or more,High school,More than 2,Good
+A00002023,37,High,5 or more,High school,More than 2,Good
+A00002024,26,Medium,5 or more,High school,More than 2,Good
+A00002025,39,High,5 or more,High school,More than 2,Good
+A00002026,25,Medium,5 or more,College,More than 2,Good
+A00002027,24,High,Less than 5,High school,None or 1,Good
+A00002028,36,Medium,5 or more,College,More than 2,Good
+A00002029,32,Medium,Less than 5,High school,None or 1,Good
+A00002030,41,Medium,Less than 5,College,None or 1,Good
+A00002031,34,Medium,Less than 5,College,None or 1,Good
+A00002032,32,Medium,5 or more,High school,More than 2,Good
+A00002033,45,Medium,5 or more,College,More than 2,Good
+A00002034,25,High,Less than 5,High school,None or 1,Good
+A00002035,32,High,5 or more,College,More than 2,Good
+A00002036,42,Medium,Less than 5,High school,None or 1,Good
+A00002037,25,High,Less than 5,College,More than 2,Good
+A00002038,32,Medium,5 or more,College,More than 2,Good
+A00002039,43,High,Less than 5,High school,None or 1,Good
+A00002040,27,High,5 or more,College,More than 2,Good
+A00002041,26,High,Less than 5,College,None or 1,Good
+A00002042,39,Medium,5 or more,College,More than 2,Good
+A00002043,60,High,Less than 5,High school,None or 1,Good
+A00002044,37,High,5 or more,High school,More than 2,Good
+A00002045,52,High,Less than 5,High school,None or 1,Good
+A00002046,48,High,5 or more,College,More than 2,Good
+A00002047,33,High,5 or more,College,More than 2,Good
+A00002048,41,Medium,Less than 5,College,None or 1,Good
+A00002049,30,High,Less than 5,High school,None or 1,Good
+A00002050,41,Low,Less than 5,College,None or 1,Good
+A00002051,46,Medium,Less than 5,College,None or 1,Good
+A00002052,33,Medium,5 or more,College,More than 2,Good
+A00002053,25,Medium,5 or more,College,More than 2,Good
+A00002054,42,Medium,5 or more,College,More than 2,Good
+A00002055,25,Medium,Less than 5,High school,None or 1,Good
+A00002056,45,High,Less than 5,College,None or 1,Good
+A00002057,24,High,5 or more,College,More than 2,Good
+A00002058,31,High,5 or more,College,More than 2,Good
+A00002059,52,Medium,Less than 5,College,None or 1,Good
+A00002060,29,Medium,5 or more,College,More than 2,Good
+A00002061,25,High,5 or more,College,More than 2,Good
+A00002062,54,High,5 or more,College,None or 1,Good
+A00002063,45,Medium,Less than 5,College,None or 1,Good
+A00002064,39,Medium,5 or more,College,More than 2,Good
+A00002065,29,High,Less than 5,College,None or 1,Good
+A00002066,34,Medium,5 or more,High school,More than 2,Good
+A00002067,41,High,Less than 5,College,None or 1,Good
+A00002068,33,Medium,5 or more,College,More than 2,Good
+A00002069,41,Low,5 or more,College,More than 2,Good
+A00002070,34,Medium,Less than 5,High school,None or 1,Good
+A00002071,26,Medium,Less than 5,College,None or 1,Good
+A00002072,31,High,Less than 5,High school,None or 1,Good
+A00002073,39,High,5 or more,High school,More than 2,Good
+A00002074,33,Medium,5 or more,College,More than 2,Good
+A00002075,25,Low,5 or more,College,More than 2,Good
+A00002076,46,Medium,5 or more,High school,None or 1,Good
+A00002077,43,High,5 or more,College,More than 2,Good
+A00002078,36,Medium,Less than 5,High school,None or 1,Good
+A00002079,47,High,5 or more,High school,More than 2,Good
+A00002080,27,Medium,5 or more,College,More than 2,Good
+A00002081,36,High,Less than 5,College,None or 1,Good
+A00002082,57,Medium,5 or more,High school,More than 2,Good
+A00002083,36,Medium,Less than 5,High school,None or 1,Good
+A00002084,34,Medium,Less than 5,College,None or 1,Good
+A00002085,31,Medium,5 or more,High school,More than 2,Good
+A00002086,40,Medium,5 or more,College,More than 2,Good
+A00002087,32,Low,Less than 5,College,None or 1,Good
+A00002088,45,Medium,5 or more,College,More than 2,Good
+A00002089,30,Medium,5 or more,High school,More than 2,Good
+A00002090,42,High,Less than 5,High school,None or 1,Good
+A00002091,38,Medium,5 or more,High school,More than 2,Good
+A00002092,22,Medium,Less than 5,High school,None or 1,Good
+A00002093,33,High,Less than 5,High school,None or 1,Good
+A00002094,41,High,Less than 5,College,More than 2,Good
+A00002095,23,Medium,Less than 5,College,None or 1,Good
+A00002096,30,Medium,Less than 5,College,None or 1,Good
+A00002097,22,High,Less than 5,College,None or 1,Good
+A00002098,30,High,5 or more,High school,More than 2,Good
+A00002099,35,High,5 or more,College,More than 2,Good
+A00002100,45,High,5 or more,High school,More than 2,Good
+A00002101,31,Medium,Less than 5,High school,None or 1,Good
+A00002102,39,High,5 or more,College,More than 2,Good
+A00002103,35,High,Less than 5,College,None or 1,Good
+A00002104,37,Medium,5 or more,College,None or 1,Good
+A00002105,28,Medium,5 or more,High school,More than 2,Good
+A00002106,43,High,Less than 5,College,More than 2,Good
+A00002107,44,High,5 or more,College,More than 2,Good
+A00002108,26,High,5 or more,High school,More than 2,Good
+A00002109,37,High,Less than 5,High school,None or 1,Good
+A00002110,39,High,5 or more,College,More than 2,Good
+A00002111,21,High,5 or more,High school,None or 1,Good
+A00002112,52,Medium,Less than 5,College,None or 1,Good
+A00002113,31,Medium,5 or more,High school,More than 2,Good
+A00002114,41,High,Less than 5,High school,None or 1,Good
+A00002115,28,High,Less than 5,High school,None or 1,Good
+A00002116,44,Medium,Less than 5,College,None or 1,Good
+A00002117,41,High,5 or more,College,More than 2,Good
+A00002118,40,High,5 or more,High school,More than 2,Good
+A00002119,49,Medium,Less than 5,High school,None or 1,Good
+A00002120,49,Medium,Less than 5,High school,None or 1,Good
+A00002121,39,Medium,5 or more,College,More than 2,Good
+A00002122,22,Medium,5 or more,High school,More than 2,Good
+A00002123,27,Low,Less than 5,High school,None or 1,Good
+A00002124,35,Medium,5 or more,High school,More than 2,Good
+A00002125,37,Low,5 or more,High school,None or 1,Good
+A00002126,59,High,5 or more,College,More than 2,Good
+A00002127,35,High,5 or more,High school,More than 2,Good
+A00002128,35,High,5 or more,High school,More than 2,Good
+A00002129,44,Medium,Less than 5,College,None or 1,Good
+A00002130,24,Low,5 or more,High school,None or 1,Good
+A00002131,43,High,Less than 5,College,None or 1,Good
+A00002132,35,Medium,5 or more,College,More than 2,Good
+A00002133,21,High,5 or more,High school,None or 1,Good
+A00002134,37,Medium,5 or more,College,None or 1,Good
+A00002135,48,High,Less than 5,High school,None or 1,Good
+A00002136,29,Medium,5 or more,College,None or 1,Good
+A00002137,35,High,Less than 5,High school,None or 1,Good
+A00002138,39,Medium,Less than 5,College,None or 1,Good
+A00002139,58,High,Less than 5,College,More than 2,Good
+A00002140,30,Medium,5 or more,College,More than 2,Good
+A00002141,40,Medium,5 or more,College,More than 2,Good
+A00002142,30,Medium,5 or more,College,More than 2,Good
+A00002143,43,High,Less than 5,College,More than 2,Good
+A00002144,58,Medium,5 or more,College,More than 2,Good
+A00002145,27,High,5 or more,College,More than 2,Good
+A00002146,26,High,5 or more,College,More than 2,Good
+A00002147,34,Medium,Less than 5,High school,None or 1,Good
+A00002148,24,Medium,5 or more,High school,More than 2,Good
+A00002149,42,High,Less than 5,High school,None or 1,Good
+A00002150,31,High,Less than 5,College,None or 1,Good
+A00002151,33,High,5 or more,College,More than 2,Good
+A00002152,39,Medium,5 or more,High school,More than 2,Good
+A00002153,36,Medium,Less than 5,College,More than 2,Good
+A00002154,29,Medium,5 or more,High school,More than 2,Good
+A00002155,25,Medium,5 or more,College,None or 1,Good
+A00002156,42,High,Less than 5,High school,None or 1,Good
+A00002157,44,High,5 or more,College,More than 2,Good
+A00002158,40,,Less than 5,College,None or 1,Good
+A00002159,39,Medium,5 or more,High school,More than 2,Good
+A00002160,40,High,5 or more,College,More than 2,Good
+A00002161,25,Medium,5 or more,High school,More than 2,Good
+A00002162,28,Medium,5 or more,College,None or 1,Good
+A00002163,35,Medium,Less than 5,College,None or 1,Good
+A00002164,47,High,Less than 5,College,None or 1,Good
+A00002165,24,High,5 or more,College,None or 1,Good
+A00002166,23,High,5 or more,High school,More than 2,Good
+A00002167,35,Medium,Less than 5,College,None or 1,Good
+A00002168,28,High,Less than 5,High school,None or 1,Good
+A00002169,24,Medium,5 or more,College,More than 2,Good
+A00002170,43,High,Less than 5,High school,None or 1,Good
+A00002171,22,High,Less than 5,High school,None or 1,Good
+A00002172,22,High,Less than 5,College,None or 1,Good
+A00002173,31,Medium,Less than 5,High school,None or 1,Good
+A00002174,44,Medium,Less than 5,College,None or 1,Good
+A00002175,37,High,5 or more,College,More than 2,Good
+A00002176,27,High,5 or more,College,None or 1,Good
+A00002177,38,Medium,5 or more,High school,More than 2,Good
+A00002178,43,Medium,Less than 5,College,None or 1,Good
+A00002179,51,High,Less than 5,High school,None or 1,Good
+A00002180,33,Medium,Less than 5,College,None or 1,Good
+A00002181,43,Medium,Less than 5,College,None or 1,Good
+A00002182,29,Medium,5 or more,College,More than 2,Good
+A00002183,25,High,Less than 5,High school,None or 1,Good
+A00002184,39,Medium,Less than 5,College,More than 2,Good
+A00002185,38,High,5 or more,High school,More than 2,Good
+A00002186,30,Medium,Less than 5,College,None or 1,Good
+A00002187,45,Medium,Less than 5,High school,None or 1,Good
+A00002188,33,High,Less than 5,College,None or 1,Good
+A00002189,37,Medium,Less than 5,High school,None or 1,Good
+A00002190,38,Low,Less than 5,High school,None or 1,Good
+A00002191,46,Medium,5 or more,High school,More than 2,Good
+A00002192,44,Medium,Less than 5,College,More than 2,Good
+A00002193,39,Medium,5 or more,College,More than 2,Good
+A00002194,31,Medium,Less than 5,High school,None or 1,Good
+A00002195,36,High,5 or more,High school,More than 2,Good
+A00002196,46,Medium,Less than 5,College,None or 1,Good
+A00002197,41,Low,Less than 5,High school,None or 1,Good
+A00002198,27,High,5 or more,High school,More than 2,Good
+A00002199,35,Medium,Less than 5,College,None or 1,Good
+A00002200,39,Medium,Less than 5,High school,None or 1,Good
+A00002201,39,Low,5 or more,College,More than 2,Good
+A00002202,32,,Less than 5,High school,None or 1,Good
+A00002203,34,High,5 or more,College,More than 2,Good
+A00002204,34,High,Less than 5,High school,None or 1,Good
+A00002205,40,High,Less than 5,High school,None or 1,Good
+A00002206,39,Low,Less than 5,College,None or 1,Good
+A00002207,26,Medium,5 or more,High school,More than 2,Good
+A00002208,39,Medium,Less than 5,High school,None or 1,Good
+A00002209,47,Medium,5 or more,College,More than 2,Good
+A00002210,35,Medium,Less than 5,High school,None or 1,Good
+A00002211,43,High,Less than 5,College,None or 1,Good
+A00002212,35,High,5 or more,High school,More than 2,Good
+A00002213,43,High,5 or more,High school,More than 2,Good
+A00002214,48,High,Less than 5,High school,More than 2,Good
+A00002215,27,Low,Less than 5,College,None or 1,Good
+A00002216,26,Medium,Less than 5,High school,None or 1,Good
+A00002217,39,Medium,Less than 5,College,None or 1,Good
+A00002218,32,Medium,5 or more,High school,More than 2,Good
+A00002219,42,Medium,5 or more,College,More than 2,Good
+A00002220,49,Low,Less than 5,College,None or 1,Good
+A00002221,22,High,5 or more,High school,More than 2,Good
+A00002222,40,Medium,5 or more,High school,More than 2,Good
+A00002223,22,High,5 or more,College,More than 2,Good
+A00002224,51,Medium,5 or more,High school,More than 2,Good
+A00002225,47,Medium,Less than 5,High school,None or 1,Good
+A00002226,42,Medium,Less than 5,College,More than 2,Good
+A00002227,33,Medium,Less than 5,High school,None or 1,Good
+A00002228,57,Medium,5 or more,High school,More than 2,Good
+A00002229,30,Medium,Less than 5,High school,None or 1,Good
+A00002230,42,High,5 or more,High school,More than 2,Good
+A00002231,32,Low,5 or more,High school,More than 2,Good
+A00002232,29,High,5 or more,High school,More than 2,Good
+A00002233,39,Medium,5 or more,High school,More than 2,Good
+A00002234,44,Medium,5 or more,High school,More than 2,Good
+A00002235,27,Medium,Less than 5,High school,More than 2,Good
+A00002236,62,Medium,5 or more,High school,More than 2,Good
+A00002237,34,Medium,Less than 5,High school,None or 1,Good
+A00002238,23,High,Less than 5,High school,None or 1,Good
+A00002239,47,Medium,5 or more,College,More than 2,Good
+A00002240,41,High,Less than 5,College,More than 2,Good
+A00002241,27,Medium,Less than 5,High school,None or 1,Good
+A00002242,41,Medium,Less than 5,High school,More than 2,Good
+A00002243,26,High,Less than 5,College,None or 1,Good
+A00002244,46,High,5 or more,High school,More than 2,Good
+A00002245,40,High,5 or more,High school,More than 2,Good
+A00002246,45,Medium,Less than 5,College,None or 1,Good
+A00002247,47,Low,Less than 5,College,None or 1,Good
+A00002248,54,Medium,5 or more,College,More than 2,Good
+A00002249,33,Medium,Less than 5,High school,None or 1,Good
+A00002250,44,High,Less than 5,College,None or 1,Good
+A00002251,33,High,Less than 5,High school,None or 1,Good
+A00002252,30,High,Less than 5,College,None or 1,Good
+A00002253,47,High,5 or more,High school,More than 2,Good
+A00002254,32,High,Less than 5,High school,None or 1,Good
+A00002255,32,Medium,Less than 5,High school,None or 1,Good
+A00002256,41,Medium,5 or more,High school,None or 1,Good
+A00002257,29,Medium,Less than 5,High school,None or 1,Good
+A00002258,32,High,Less than 5,High school,None or 1,Good
+A00002259,51,High,5 or more,College,More than 2,Good
+A00002260,42,High,Less than 5,High school,More than 2,Good
+A00002261,21,Medium,5 or more,College,More than 2,Good
+A00002262,30,High,5 or more,College,More than 2,Good
+A00002263,45,Medium,Less than 5,College,None or 1,Good
+A00002264,31,Medium,5 or more,College,More than 2,Good
+A00002265,46,High,5 or more,High school,More than 2,Good
+A00002266,36,Medium,5 or more,High school,More than 2,Good
+A00002267,39,Medium,Less than 5,College,None or 1,Good
+A00002268,38,High,Less than 5,High school,None or 1,Good
+A00002269,40,Medium,Less than 5,High school,None or 1,Good
+A00002270,32,Medium,Less than 5,College,None or 1,Good
+A00002271,37,High,5 or more,High school,More than 2,Good
+A00002272,39,Medium,Less than 5,College,None or 1,Good
+A00002273,26,Low,Less than 5,High school,None or 1,Good
+A00002274,48,High,Less than 5,College,None or 1,Good
+A00002275,34,High,5 or more,High school,More than 2,Good
+A00002276,26,Medium,5 or more,High school,More than 2,Good
+A00002277,30,High,Less than 5,College,None or 1,Good
+A00002278,56,Medium,5 or more,College,More than 2,Good
+A00002279,49,High,Less than 5,High school,More than 2,Good
+A00002280,27,High,5 or more,High school,More than 2,Good
+A00002281,24,High,5 or more,High school,More than 2,Good
+A00002282,27,Medium,Less than 5,College,More than 2,Good
+A00002283,47,High,5 or more,College,More than 2,Good
+A00002284,28,Medium,Less than 5,College,None or 1,Good
+A00002285,38,High,5 or more,College,None or 1,Good
+A00002286,41,High,Less than 5,College,None or 1,Good
+A00002287,32,High,5 or more,College,More than 2,Good
+A00002288,39,High,5 or more,High school,More than 2,Good
+A00002289,36,Medium,5 or more,College,More than 2,Good
+A00002290,28,Medium,Less than 5,College,More than 2,Good
+A00002291,28,Medium,5 or more,High school,More than 2,Good
+A00002292,40,Medium,5 or more,High school,More than 2,Good
+A00002293,41,High,5 or more,College,More than 2,Good
+A00002294,34,,5 or more,High school,More than 2,Good
+A00002295,49,Medium,Less than 5,High school,More than 2,Good
+A00002296,46,High,5 or more,High school,More than 2,Good
+A00002297,33,High,Less than 5,College,None or 1,Good
+A00002298,43,High,5 or more,College,More than 2,Good
+A00002299,34,Medium,5 or more,High school,More than 2,Good
+A00002300,35,Medium,Less than 5,High school,None or 1,Good
+A00002301,26,High,Less than 5,High school,None or 1,Good
+A00002302,28,High,5 or more,College,More than 2,Good
+A00002303,27,High,Less than 5,High school,None or 1,Good
+A00002304,59,Low,5 or more,High school,More than 2,Good
+A00002305,31,High,5 or more,High school,More than 2,Good
+A00002306,33,Medium,5 or more,High school,More than 2,Good
+A00002307,42,Medium,5 or more,High school,More than 2,Good
+A00002308,41,High,5 or more,High school,None or 1,Good
+A00002309,40,High,5 or more,High school,More than 2,Good
+A00002310,23,High,Less than 5,High school,None or 1,Good
+A00002311,33,High,Less than 5,High school,None or 1,Good
+A00002312,51,Medium,5 or more,High school,More than 2,Good
+A00002313,46,High,Less than 5,High school,None or 1,Good
+A00002314,38,High,5 or more,High school,More than 2,Good
+A00002315,39,High,Less than 5,High school,None or 1,Good
+A00002316,45,Medium,5 or more,High school,More than 2,Good
+A00002317,40,High,5 or more,College,More than 2,Good
+A00002318,42,High,5 or more,College,More than 2,Good
+A00002319,51,Low,Less than 5,High school,More than 2,Good
+A00002320,35,Medium,Less than 5,College,More than 2,Good
+A00002321,45,Low,Less than 5,High school,None or 1,Good
+A00002322,36,Low,Less than 5,College,None or 1,Good
+A00002323,46,Medium,5 or more,High school,More than 2,Good
+A00002324,25,Medium,5 or more,College,More than 2,Good
+A00002325,35,Medium,Less than 5,College,None or 1,Good
+A00002326,32,Medium,5 or more,High school,More than 2,Good
+A00002327,21,Medium,5 or more,High school,None or 1,Good
+A00002328,41,High,Less than 5,High school,None or 1,Good
+A00002329,45,High,Less than 5,College,None or 1,Good
+A00002330,25,High,5 or more,High school,More than 2,Good
+A00002331,43,High,Less than 5,High school,None or 1,Good
+A00002332,36,High,Less than 5,High school,None or 1,Good
+A00002333,43,Medium,Less than 5,College,None or 1,Good
+A00002334,30,High,5 or more,High school,None or 1,Good
+A00002335,58,High,5 or more,High school,More than 2,Good
+A00002336,41,Medium,5 or more,High school,More than 2,Good
+A00002337,29,High,5 or more,College,More than 2,Good
+A00002338,43,High,5 or more,College,More than 2,Good
+A00002339,43,Medium,Less than 5,High school,More than 2,Good
+A00002340,46,Medium,5 or more,College,More than 2,Good
+A00002341,53,Medium,Less than 5,High school,None or 1,Good
+A00002342,29,Low,Less than 5,College,More than 2,Good
+A00002343,53,High,5 or more,College,More than 2,Good
+A00002344,48,Medium,Less than 5,High school,None or 1,Good
+A00002345,34,High,5 or more,High school,More than 2,Good
+A00002346,26,Medium,Less than 5,College,None or 1,Good
+A00002347,47,Medium,5 or more,High school,More than 2,Good
+A00002348,35,Medium,5 or more,High school,None or 1,Good
+A00002349,40,Low,5 or more,High school,More than 2,Good
+A00002350,41,High,5 or more,High school,More than 2,Good
+A00002351,35,Medium,5 or more,College,More than 2,Good
+A00002352,34,High,5 or more,High school,More than 2,Good
+A00002353,36,Medium,Less than 5,College,None or 1,Good
+A00002354,28,High,5 or more,High school,More than 2,Good
+A00002355,36,High,5 or more,High school,More than 2,Good
+A00002356,38,High,5 or more,College,More than 2,Good
+A00002357,24,High,Less than 5,High school,More than 2,Good
+A00002358,44,Medium,5 or more,High school,More than 2,Good
+A00002359,30,Medium,5 or more,High school,More than 2,Good
+A00002360,38,Medium,Less than 5,College,More than 2,Good
+A00002361,40,Medium,5 or more,College,More than 2,Good
+A00002362,39,High,Less than 5,High school,More than 2,Good
+A00002363,39,Medium,Less than 5,High school,None or 1,Good
+A00002364,40,High,Less than 5,College,None or 1,Good
+A00002365,33,High,Less than 5,High school,None or 1,Good
+A00002366,40,Low,Less than 5,High school,None or 1,Good
+A00002367,33,High,5 or more,College,More than 2,Good
+A00002368,32,High,5 or more,High school,More than 2,Good
+A00002369,33,High,5 or more,High school,More than 2,Good
+A00002370,26,High,Less than 5,High school,More than 2,Good
+A00002371,35,High,5 or more,College,More than 2,Good
+A00002372,30,High,5 or more,High school,More than 2,Good
+A00002373,39,High,Less than 5,College,None or 1,Good
+A00002374,54,Medium,5 or more,College,More than 2,Good
+A00002375,34,High,Less than 5,College,None or 1,Good
+A00002376,38,High,5 or more,College,More than 2,Good
+A00002377,34,Medium,5 or more,College,More than 2,Good
+A00002378,24,Low,5 or more,College,More than 2,Good
+A00002379,51,High,5 or more,College,More than 2,Good
+A00002380,30,Medium,Less than 5,High school,None or 1,Good
+A00002381,44,High,5 or more,High school,More than 2,Good
+A00002382,38,,Less than 5,College,None or 1,Good
+A00002383,42,High,5 or more,College,None or 1,Good
+A00002384,25,Medium,Less than 5,College,None or 1,Good
+A00002385,30,Medium,5 or more,College,More than 2,Good
+A00002386,40,High,Less than 5,College,None or 1,Good
+A00002387,39,High,Less than 5,High school,None or 1,Good
+A00002388,43,High,Less than 5,College,More than 2,Good
+A00002389,38,High,Less than 5,College,None or 1,Good
+A00002390,38,Medium,5 or more,College,None or 1,Good
+A00002391,31,High,Less than 5,College,None or 1,Good
+A00002392,31,High,5 or more,College,More than 2,Good
+A00002393,31,High,5 or more,College,None or 1,Good
+A00002394,29,Medium,Less than 5,College,None or 1,Good
+A00002395,28,High,5 or more,High school,More than 2,Good
+A00002396,28,High,Less than 5,College,None or 1,Good
+A00002397,39,High,Less than 5,High school,None or 1,Good
+A00002398,33,Medium,Less than 5,College,None or 1,Good
+A00002399,41,Medium,5 or more,High school,More than 2,Good
+A00002400,20,Medium,Less than 5,High school,None or 1,Good
+A00002401,49,Medium,5 or more,High school,More than 2,Good
+A00002402,30,Medium,5 or more,College,More than 2,Good
+A00002403,47,High,5 or more,High school,More than 2,Good
+A00002404,31,High,5 or more,High school,More than 2,Good
+A00002405,27,Medium,Less than 5,High school,None or 1,Good
+A00002406,34,Low,Less than 5,College,None or 1,Good
+A00002407,35,Medium,Less than 5,High school,None or 1,Good
+A00002408,42,High,5 or more,High school,More than 2,Good
+A00002409,54,High,Less than 5,College,None or 1,Good
+A00002410,24,High,5 or more,High school,More than 2,Good
+A00002411,43,High,Less than 5,High school,More than 2,Good
+A00002412,35,High,Less than 5,High school,More than 2,Good
+A00002413,33,High,5 or more,College,More than 2,Good
+A00002414,38,Medium,5 or more,High school,More than 2,Good
+A00002415,26,High,Less than 5,High school,None or 1,Good
+A00002416,38,Medium,Less than 5,High school,None or 1,Good
+A00002417,21,High,5 or more,High school,More than 2,Good
+A00002418,38,High,5 or more,College,More than 2,Good
+A00002419,63,Medium,Less than 5,College,None or 1,Good
+A00002420,35,High,Less than 5,College,None or 1,Good
+A00002421,46,High,Less than 5,High school,None or 1,Good
+A00002422,32,Medium,5 or more,High school,More than 2,Good
+A00002423,32,High,5 or more,High school,More than 2,Good
+A00002424,47,High,Less than 5,High school,More than 2,Good
+A00002425,35,High,5 or more,College,More than 2,Good
+A00002426,39,Medium,Less than 5,College,More than 2,Good
+A00002427,40,Low,Less than 5,High school,None or 1,Good
+A00002428,40,Low,5 or more,College,More than 2,Good
+A00002429,38,Medium,Less than 5,College,More than 2,Good
+A00002430,36,Medium,5 or more,College,More than 2,Good
+A00002431,47,Medium,Less than 5,High school,None or 1,Good
+A00002432,34,Medium,Less than 5,High school,None or 1,Good
+A00002433,21,High,5 or more,High school,More than 2,Good
+A00002434,52,High,5 or more,College,More than 2,Good
+A00002435,51,High,5 or more,College,None or 1,Good
+A00002436,21,High,Less than 5,High school,None or 1,Good
+A00002437,36,,5 or more,College,None or 1,Good
+A00002438,30,Medium,5 or more,College,More than 2,Good
+A00002439,44,Low,Less than 5,College,None or 1,Good
+A00002440,39,Medium,5 or more,College,More than 2,Good
+A00002441,22,Medium,5 or more,College,More than 2,Good
+A00002442,28,Medium,5 or more,High school,None or 1,Good
+A00002443,59,Low,5 or more,High school,More than 2,Good
+A00002444,34,Medium,Less than 5,College,None or 1,Good
+A00002445,21,High,5 or more,High school,More than 2,Good
+A00002446,40,Medium,Less than 5,College,None or 1,Good
+A00002447,23,Medium,Less than 5,College,None or 1,Good
+A00002448,38,Medium,Less than 5,College,None or 1,Good
+A00002449,41,Medium,5 or more,College,More than 2,Good
+A00002450,31,Medium,5 or more,College,More than 2,Good
+A00002451,33,Medium,5 or more,High school,More than 2,Good
+A00002452,58,Low,5 or more,College,More than 2,Good
+A00002453,32,Medium,Less than 5,High school,None or 1,Good
+A00002454,31,High,Less than 5,College,None or 1,Good
+A00002455,38,High,Less than 5,College,None or 1,Good
+A00002456,37,High,Less than 5,High school,None or 1,Good
+A00002457,34,High,Less than 5,College,More than 2,Good
+A00002458,39,High,Less than 5,High school,None or 1,Good
+A00002459,25,High,Less than 5,High school,None or 1,Good
+A00002460,28,Medium,Less than 5,High school,None or 1,Good
+A00002461,30,Medium,Less than 5,College,None or 1,Good
+A00002462,24,Medium,Less than 5,High school,None or 1,Good
+A00002463,46,Medium,5 or more,College,More than 2,Good
+A00002464,28,High,Less than 5,College,More than 2,Good
